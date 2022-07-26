@@ -1,0 +1,156 @@
+[
+  {
+    "id": "f04f0637-9f88-40ff-ba33-cb7119132cf3",
+    "data": [
+      {
+        "text": "هل يمكنك إضافة هذا ",
+        "userDefined": false
+      },
+      {
+        "text": "الكيبورد",
+        "meta": "@product",
+        "alias": "product",
+        "userDefined": false
+      },
+      {
+        "text": " إلى عربة التسوق الخاصة بي",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0419428e-3fca-439a-a2dd-603f3050a7fa",
+    "data": [
+      {
+        "text": "أضف ",
+        "userDefined": false
+      },
+      {
+        "text": "الماوس",
+        "meta": "@product",
+        "alias": "product",
+        "userDefined": false
+      },
+      {
+        "text": " إلى عربتي",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e5eca41c-8cd3-41f9-8e75-3c1684a40dad",
+    "data": [
+      {
+        "text": "أضف هذا الشيئ الى عربة التسوق",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "12ba4428-b34c-4557-acfe-94e0a50624bc",
+    "data": [
+      {
+        "text": "اضافة عنصر",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7c930f0f-d3b0-47f8-ac2d-04d2df21c7ef",
+    "data": [
+      {
+        "text": "أضف ",
+        "userDefined": false
+      },
+      {
+        "text": "نظارات",
+        "meta": "@product",
+        "alias": "product",
+        "userDefined": true
+      },
+      {
+        "text": " إلى عربتي",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7ee7eac8-1060-4c69-a5b4-2ed55060ab2b",
+    "data": [
+      {
+        "text": "أضف إلى عربة التسوق الخاصة بي",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "965ffba7-8de4-4aa5-84fd-6ec5f06ef8f1",
+    "data": [
+      {
+        "text": "أضف هذه ",
+        "userDefined": false
+      },
+      {
+        "text": "السماعات",
+        "meta": "@product",
+        "alias": "product",
+        "userDefined": true
+      },
+      {
+        "text": " إلى عربتي",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "afed8b0b-9a2d-4121-b245-0f841ac8347a",
+    "data": [
+      {
+        "text": "أنا أحب هذه ",
+        "userDefined": false
+      },
+      {
+        "text": "السماعة",
+        "meta": "@product",
+        "alias": "product",
+        "userDefined": true
+      },
+      {
+        "text": "  وأضفه إلى عربة التسوق الخاصة بي",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

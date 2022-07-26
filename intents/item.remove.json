@@ -1,0 +1,55 @@
+{
+  "id": "58b40606-61bc-4587-80b0-adefebfe69eb",
+  "name": "item.remove",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "049e7eb9-5301-4541-aaf1-7f6d08468a41",
+          "name": "product",
+          "required": false,
+          "dataType": "@product",
+          "value": "$product",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "تمام ولا يهمك تمت الازالة",
+            "اووك حذفنا المنتج",
+            "ما في مشكلة حذفت المنتج",
+            "تمام راح احذفلك المنتج من عربة التسوق",
+            "بسيطة ولا يهمك حذفتلك المنتج",
+            "تمت الازالة من عربت التسوق"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

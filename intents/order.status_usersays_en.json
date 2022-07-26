@@ -1,0 +1,336 @@
+[
+  {
+    "id": "6c6842b9-14e7-42cf-a647-693e865f7757",
+    "data": [
+      {
+        "text": "ممكن تتاكدلي من الطلب هي الرقم ",
+        "userDefined": false
+      },
+      {
+        "text": "1554",
+        "meta": "@sys.number-integer",
+        "alias": "order-number",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1233206f-d6e0-4ddb-bec5-9feebf533aaa",
+    "data": [
+      {
+        "text": "رقم الاودر هو ",
+        "userDefined": false
+      },
+      {
+        "text": "1345",
+        "meta": "@sys.number-integer",
+        "alias": "order-number",
+        "userDefined": true
+      },
+      {
+        "text": " بدي تشوف ",
+        "userDefined": false
+      },
+      {
+        "text": "شو",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "صار",
+        "userDefined": false
+      },
+      {
+        "text": " فيه",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b0ea6ad6-4d07-4a4a-9d1c-04e588b13d0a",
+    "data": [
+      {
+        "text": "ممكن تشوف الطلب من فضلك",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cfa6711b-9130-4fb7-9304-165e830bd4b4",
+    "data": [
+      {
+        "text": "الطلب ما وصل لغاية الان",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3127c095-dba1-4388-bf8a-0bf67f081307",
+    "data": [
+      {
+        "text": "وصيت",
+        "userDefined": false
+      },
+      {
+        "text": " على طلب ",
+        "userDefined": false
+      },
+      {
+        "text": "شو",
+        "userDefined": false
+      },
+      {
+        "text": " صار في",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "01118020-3fea-4a87-925d-ecb93c3a2ede",
+    "data": [
+      {
+        "text": "هل يمكن التحقق من ",
+        "userDefined": false
+      },
+      {
+        "text": "الطلب",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4e28c3b9-20a8-42ab-b44b-3a3baeb282e1",
+    "data": [
+      {
+        "text": "تاكدلي من الطلب",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "24c474a3-d35d-49fd-8d79-f08783f6164c",
+    "data": [
+      {
+        "text": "شو",
+        "userDefined": false
+      },
+      {
+        "text": " صار ب الطلب",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ce5d8d44-8015-41d9-9bc6-1da41bd9f441",
+    "data": [
+      {
+        "text": "شو",
+        "userDefined": false
+      },
+      {
+        "text": " صار ب ",
+        "userDefined": false
+      },
+      {
+        "text": "الاوردر",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c3d01e89-d03c-421a-9b4a-9a2cf8efdfb3",
+    "data": [
+      {
+        "text": "حالة الطلب",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1d884d95-fb47-48a9-9aa6-acf9a13f473b",
+    "data": [
+      {
+        "text": "تحقق من الأمر ",
+        "userDefined": false
+      },
+      {
+        "text": "1234",
+        "meta": "@sys.number-integer",
+        "alias": "order-number",
+        "userDefined": true
+      },
+      {
+        "text": " لـ ",
+        "userDefined": false
+      },
+      {
+        "text": "test@gmail.com",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f7f43fe9-0240-4c34-95a6-cfde11b5bb79",
+    "data": [
+      {
+        "text": "ما هي حالة ",
+        "userDefined": false
+      },
+      {
+        "text": "طلبي",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "53b3adb6-e07e-47c4-bb47-2fbb36a5bf06",
+    "data": [
+      {
+        "text": "طلباتي",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cb030b98-0499-4eb4-86fc-7856e2bd0ddf",
+    "data": [
+      {
+        "text": "أين ",
+        "userDefined": false
+      },
+      {
+        "text": "طردي",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4943a4ac-6fbd-493a-8766-a8db7b4b5f1a",
+    "data": [
+      {
+        "text": "يمكنك التحقق من أوامري",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "273fd651-24e1-4b95-bfd9-80ea1094bbc7",
+    "data": [
+      {
+        "text": "اين ",
+        "userDefined": false
+      },
+      {
+        "text": "طلبي",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "039f0d35-1dd6-46dd-a322-8cd0e38ed51e",
+    "data": [
+      {
+        "text": "تحقق من ",
+        "userDefined": false
+      },
+      {
+        "text": "طلبي",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "050ac542-6f54-40b5-82e0-1555757a0d94",
+    "data": [
+      {
+        "text": "رقم طلبي هو ",
+        "userDefined": false
+      },
+      {
+        "text": "938464",
+        "meta": "@sys.number-integer",
+        "alias": "order-number",
+        "userDefined": true
+      },
+      {
+        "text": " هل يمكنك التحقق منه",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

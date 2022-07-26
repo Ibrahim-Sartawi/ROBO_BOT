@@ -1,0 +1,165 @@
+[
+  {
+    "id": "528f84fa-89dc-485b-92d3-6a5b4f5a7811",
+    "data": [
+      {
+        "text": "ايميل",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "87241b79-09f7-4ae5-8b65-c0250dc92877",
+    "data": [
+      {
+        "text": "بتردو",
+        "userDefined": false
+      },
+      {
+        "text": " على الرسائل",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b74ded3f-ab38-4f45-9604-aba2f3ee7011",
+    "data": [
+      {
+        "text": "بدي",
+        "userDefined": false
+      },
+      {
+        "text": " ابعث مسج",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7c931084-9444-4b35-8b79-157920e65c9e",
+    "data": [
+      {
+        "text": "مسجات",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "eb0f321c-2903-444e-8210-02baad9b839c",
+    "data": [
+      {
+        "text": "اريد ارسال رسالة لك",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0083db43-58cf-4ca2-8cf6-302b6b27b7d8",
+    "data": [
+      {
+        "text": "بدي",
+        "userDefined": false
+      },
+      {
+        "text": " ارسل رسالة",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5d741ee4-4d81-4a63-aa3e-ea2369f60af2",
+    "data": [
+      {
+        "text": "رسائل نصية",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5b0c5995-2d0d-40ee-8fa9-6e7adf18fcb2",
+    "data": [
+      {
+        "text": "مسج",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "791e3fbc-1ebe-474b-8c8e-1d06b5f4e567",
+    "data": [
+      {
+        "text": "اريد التواصل على ",
+        "userDefined": false
+      },
+      {
+        "text": "الايميل",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d28acad9-b6ef-405a-b876-bc95c8320ef8",
+    "data": [
+      {
+        "text": "بدي",
+        "userDefined": false
+      },
+      {
+        "text": " ابعث ايميل",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8bec200c-77c9-4369-a170-09384c43fe06",
+    "data": [
+      {
+        "text": "sms",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

@@ -1,0 +1,84 @@
+{
+  "id": "18b8ccae-12e8-4563-bd37-55b40ecc1af8",
+  "name": "Main.Menu",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "4",
+          "platform": "facebook",
+          "title": "",
+          "payload": {
+            "facebook": {
+              "attachment": {
+                "type": "template",
+                "payload": {
+                  "template_type": "generic",
+                  "elements": [
+                    {
+                      "subtitle": "تفضل يمكنك التسوق اونلاين من متجرنا✅✅",
+                      "buttons": [
+                        {
+                          "payload": "قائمة العروض",
+                          "type": "postback",
+                          "title": "عروضنا 🔥"
+                        },
+                        {
+                          "payload": "تسوق",
+                          "title": "تسوق اونلاين 🛒",
+                          "type": "postback"
+                        },
+                        {
+                          "type": "postback",
+                          "title": "حالة الطلب 📦",
+                          "payload": "حالة الطلب"
+                        }
+                      ],
+                      "image_url": "https://t3.ftcdn.net/jpg/04/85/76/74/240_F_485767474_j6hIvxrYeDOt7nVKr17qhE6AWZqgISxR.jpg",
+                      "title": "👋👋مرحبًا بكم في متجرنا! اسمحوا لي أن أعرف كيف يمكنني مساعدتك:"
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "يمكنني مساعدتك في العثور على المنتج الذي تريده. قل لي ما الذي تبحث عنه؟"
+          ],
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "FACEBOOK_WELCOME"
+    }
+  ],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,114 @@
+[
+  {
+    "id": "d5227979-20b9-4faf-88bc-48c285fd6ca9",
+    "data": [
+      {
+        "text": "start",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "efab24ce-33b1-4ed7-8d3d-dcd0347a78a4",
+    "data": [
+      {
+        "text": "القائمة الرئيسية",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a384fa3f-8e61-41bd-83f9-4f0fa3674e1e",
+    "data": [
+      {
+        "text": "عرض القائمة ",
+        "userDefined": false
+      },
+      {
+        "text": "البدائية",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e0fe224b-09b8-453e-a492-7ffc64873803",
+    "data": [
+      {
+        "text": "بلش",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d397f4d4-ff65-462c-953d-2947bf30f278",
+    "data": [
+      {
+        "text": "ابتدء",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "097259ad-5cf1-45c7-a695-9b65bbe86133",
+    "data": [
+      {
+        "text": "بدء",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4e9434ec-dc3f-4085-b9f4-ea0fc9fafb73",
+    "data": [
+      {
+        "text": "بدء الاستخدام",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a8153ad1-9d43-44ca-bfef-78d4b240af74",
+    "data": [
+      {
+        "text": "القائمة ",
+        "userDefined": false
+      },
+      {
+        "text": "البدائية",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  }
+]

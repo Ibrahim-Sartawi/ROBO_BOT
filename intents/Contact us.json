@@ -1,0 +1,82 @@
+{
+  "id": "b5619d0d-48c2-41e3-bb8e-6b1588e9d714",
+  "name": "Contact us",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "4",
+          "platform": "facebook",
+          "title": "",
+          "payload": {
+            "facebook": {
+              "attachment": {
+                "payload": {
+                  "is_reusable": true,
+                  "url": "https://cdn.dribbble.com/users/1602563/screenshots/8869646/media/ddc33ce2c8e2570c410123f375e2c35c.gif"
+                },
+                "type": "image"
+              }
+            }
+          },
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "4",
+          "platform": "facebook",
+          "title": "",
+          "payload": {
+            "facebook": {
+              "text": "بمن تريد الاتصال؟",
+              "quick_replies": [
+                {
+                  "content_type": "text",
+                  "payload": "sms",
+                  "title": "الموقع الالكتروني 💻"
+                },
+                {
+                  "content_type": "text",
+                  "payload": "مركز خدمات",
+                  "title": "أخرى 📞"
+                }
+              ]
+            }
+          },
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "💬اتصل بفريق خدمة العملاء لدينا لتقديم تعليق أو طرح سؤال حول متجرك المحلي أو موقعنا على الويب ."
+          ],
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

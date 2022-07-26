@@ -1,0 +1,371 @@
+[
+  {
+    "id": "058830b0-8315-4414-a39b-7fd6f7e49f91",
+    "data": [
+      {
+        "text": "وصيت ",
+        "userDefined": false
+      },
+      {
+        "text": "شاشة",
+        "meta": "@product",
+        "alias": "product",
+        "userDefined": true
+      },
+      {
+        "text": " بس بدي احذفها من الطلب",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "219b5f2b-0c17-4870-893a-3b2b82431038",
+    "data": [
+      {
+        "text": "وصيت ",
+        "userDefined": false
+      },
+      {
+        "text": "شاشة",
+        "meta": "@product",
+        "alias": "product",
+        "userDefined": true
+      },
+      {
+        "text": " بس بدي احذفها من عربت التسوق",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1688077d-9292-47a3-a071-8468c9ac1a88",
+    "data": [
+      {
+        "text": "كيف ",
+        "userDefined": false
+      },
+      {
+        "text": "بدي",
+        "userDefined": false
+      },
+      {
+        "text": " احذف اخر طلب",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "389b391a-ed73-4aac-a61c-0657d1fae909",
+    "data": [
+      {
+        "text": "احذف اخر اشي",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b1eb4bdc-d1a4-462a-8eeb-7e59502bc51e",
+    "data": [
+      {
+        "text": "اشطب ",
+        "userDefined": false
+      },
+      {
+        "text": "النظارة",
+        "meta": "@product",
+        "alias": "product",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3686e523-aaea-4b9a-a11c-ddfc9c15efef",
+    "data": [
+      {
+        "text": "حذف ",
+        "userDefined": false
+      },
+      {
+        "text": "الماوس",
+        "meta": "@product",
+        "alias": "product",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3276b285-246f-49c6-8b5a-2c7fa53b8dca",
+    "data": [
+      {
+        "text": "بدي",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "اشييل",
+        "userDefined": false
+      },
+      {
+        "text": " الطلب الاخير",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4460e67d-789b-4b41-b139-77ebf0b55b7b",
+    "data": [
+      {
+        "text": "اشطب ",
+        "userDefined": false
+      },
+      {
+        "text": "العنصر",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "10cbd559-6916-483e-af9a-f703ac6c612c",
+    "data": [
+      {
+        "text": "احذفلي الطلب ",
+        "userDefined": false
+      },
+      {
+        "text": "الاخير",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "425da285-7c12-4f01-b90c-6897a28473c8",
+    "data": [
+      {
+        "text": "كيف بقدر احذف ",
+        "userDefined": false
+      },
+      {
+        "text": "السماعة",
+        "meta": "@product",
+        "alias": "product",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ecd3d87e-f343-4a23-bcd1-fd7c7ab2ba27",
+    "data": [
+      {
+        "text": "معلش بتقدر تحذف ",
+        "userDefined": false
+      },
+      {
+        "text": "المنتج",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f9fc71bd-86f3-438a-a645-68a5e70f0470",
+    "data": [
+      {
+        "text": "بطلت بدي اشتري ",
+        "userDefined": false
+      },
+      {
+        "text": "الشاشة",
+        "meta": "@product",
+        "alias": "product",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "34154efc-0a12-42bc-9cca-5f55d467eeb1",
+    "data": [
+      {
+        "text": "غيرت رأيي كيف بدي احذف ",
+        "userDefined": false
+      },
+      {
+        "text": "الشاشة",
+        "meta": "@product",
+        "alias": "product",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5cd73788-7854-4cc8-a94b-9f2c91c33d96",
+    "data": [
+      {
+        "text": "قم بإزالة العنصر",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "22f5c836-ca9b-41fa-b100-576ac258c241",
+    "data": [
+      {
+        "text": "إزالة هذه ",
+        "userDefined": false
+      },
+      {
+        "text": "النظارات",
+        "meta": "@product",
+        "alias": "product",
+        "userDefined": true
+      },
+      {
+        "text": " من عربتي",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3d2a304f-70a9-4d85-a95d-0d0bb8e7ce7a",
+    "data": [
+      {
+        "text": "إزالة ",
+        "userDefined": false
+      },
+      {
+        "text": "الكيبورد",
+        "meta": "@product",
+        "alias": "product",
+        "userDefined": true
+      },
+      {
+        "text": "  من عربتي",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4795860b-0660-4ff0-89b7-56c77dc7fd91",
+    "data": [
+      {
+        "text": "لقد غيرت رأيي بشأن ",
+        "userDefined": false
+      },
+      {
+        "text": "اشاشة",
+        "meta": "@product",
+        "alias": "product",
+        "userDefined": true
+      },
+      {
+        "text": "، قم بإزالته.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "15756765-6782-4e23-9699-d035768df47a",
+    "data": [
+      {
+        "text": "انزع ",
+        "userDefined": false
+      },
+      {
+        "text": "السماعة",
+        "meta": "@product",
+        "alias": "product",
+        "userDefined": true
+      },
+      {
+        "text": "  من.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d179bbbe-1a08-487e-bd50-a059826fd31a",
+    "data": [
+      {
+        "text": "حذف العنصر",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

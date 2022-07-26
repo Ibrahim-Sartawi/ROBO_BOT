@@ -1,0 +1,199 @@
+{
+  "id": "b4eca7b1-a21d-4f6a-b75f-5a5102eb17c2",
+  "name": "check_out",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "f9befb0a-a320-4eda-b72c-b7d52f68651b",
+          "name": "name",
+          "required": true,
+          "dataType": "@sys.given-name",
+          "value": "$name",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "1️⃣ ما اسمك الكامل؟"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "95313b16-66c5-4fd8-a29f-1d8409445b90",
+          "name": "email",
+          "required": true,
+          "dataType": "@sys.email",
+          "value": "$email",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "2️⃣ ما هو بريدك الإلكتروني؟"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "e4d309c1-170f-488f-afaa-899b6ea089ce",
+          "name": "phone",
+          "required": true,
+          "dataType": "@sys.phone-number",
+          "value": "$phone",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "3️⃣ ما هو رقم هاتفك؟"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "a1fe07a4-d2b3-40e4-98b4-a762010e73ab",
+          "name": "country",
+          "required": true,
+          "dataType": "@sys.geo-country",
+          "value": "$country",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "4️⃣ ما هي دولتك؟"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "4a7acb1a-4c50-427b-9c6c-11bc09934f03",
+          "name": "city",
+          "required": true,
+          "dataType": "@sys.geo-city",
+          "value": "$city",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "5️⃣في أي مدينة تعيش؟"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "15831ec1-d41f-46b3-ba7e-965f8b3ab895",
+          "name": "postal-code",
+          "required": true,
+          "dataType": "@sys.zip-code",
+          "value": "$postal-code",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "6️⃣ما هو الرمز البريدي لمدينتك؟"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "2be3d666-a2ec-4dc0-8daf-1a908f30d980",
+          "name": "address",
+          "required": true,
+          "dataType": "@sys.address",
+          "value": "$address",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "7️⃣ ما هو عنوان الشحن الخاص بك؟"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "4",
+          "platform": "facebook",
+          "title": "",
+          "payload": {
+            "facebook": {
+              "text": "هل بياناتك صحيحة؟",
+              "quick_replies": [
+                {
+                  "content_type": "text",
+                  "payload": "waitlist✈✈",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q\u003dtbn:ANd9GcSaX4Z46hhuqvWr885P4mKcT7NE5B89emv-2A\u0026usqp\u003dCAU",
+                  "title": "نعم"
+                },
+                {
+                  "image_url": "https://w7.pngwing.com/pngs/57/101/png-transparent-cancel-icon-icons-matt-symbol.png",
+                  "payload": "حساب المنتج",
+                  "title": "لا",
+                  "content_type": "text"
+                }
+              ]
+            }
+          },
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Ok, summing up:\n​\n😎Full name: $name,\n\n💌Contact email: $email,\n\n📱Phone number: $phone​,\n\n📦Shipping address:\n$address, $city $postal-code, $country"
+          ],
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

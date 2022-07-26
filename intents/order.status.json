@@ -1,0 +1,81 @@
+{
+  "id": "bc44e1db-9041-4a89-840b-edd077b034a5",
+  "name": "order.status",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "orderstatus-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "105ea155-c04b-4738-acf5-decd84b18189",
+          "name": "order-number",
+          "required": true,
+          "dataType": "@sys.number-integer",
+          "value": "$order-number",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "لعرض حالة الطلب الحالي ، يرجى إدخال رقم طلبك ؟"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "4",
+          "platform": "facebook",
+          "title": "",
+          "payload": {
+            "facebook": {
+              "quick_replies": [
+                {
+                  "payload": "توصيل",
+                  "content_type": "text",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q\u003dtbn:ANd9GcSaX4Z46hhuqvWr885P4mKcT7NE5B89emv-2A\u0026usqp\u003dCAU",
+                  "title": "نعم"
+                }
+              ],
+              "text": "هل تريد البحث عن الحزمة في نظامنا ...🔎"
+            }
+          },
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

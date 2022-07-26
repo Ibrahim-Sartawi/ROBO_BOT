@@ -1,0 +1,524 @@
+[
+  {
+    "id": "51029ffe-7fb9-4c58-b816-d7c4708ebd47",
+    "data": [
+      {
+        "text": "بدي ",
+        "userDefined": false
+      },
+      {
+        "text": "اياهم",
+        "userDefined": false
+      },
+      {
+        "text": " توصيل",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6daf6ce0-8ffd-4d2d-9140-40927a3807a9",
+    "data": [
+      {
+        "text": "الاغرض توصيل",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "477e6d6f-b295-447d-bb44-7fda25b28081",
+    "data": [
+      {
+        "text": "بدي الاغراض ",
+        "userDefined": false
+      },
+      {
+        "text": "ديليفري",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "13fec316-86e1-480b-95f2-47253295d2dc",
+    "data": [
+      {
+        "text": "الاوردر ديليفري",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "561468bf-0d78-4c3b-882d-2097ca565a73",
+    "data": [
+      {
+        "text": "الاوردر توصيل",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7137ca92-abe6-48dc-8c2c-149bd38adacd",
+    "data": [
+      {
+        "text": "بدي",
+        "userDefined": false
+      },
+      {
+        "text": " اياهم ديليفري",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ac323ac3-7856-4fe9-91eb-467ddd196343",
+    "data": [
+      {
+        "text": "ديلفري",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "50dd6bf9-c4aa-4cd1-a928-ed531486d86e",
+    "data": [
+      {
+        "text": "ديليفيري",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7ef137ef-42df-4d68-a353-ebd7fb07911e",
+    "data": [
+      {
+        "text": "في ",
+        "userDefined": false
+      },
+      {
+        "text": "عندكم",
+        "userDefined": false
+      },
+      {
+        "text": " ديليفري",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f9db993e-9558-4c0c-ba42-373e9571b2b2",
+    "data": [
+      {
+        "text": "هل ",
+        "userDefined": false
+      },
+      {
+        "text": "لديكم",
+        "userDefined": false
+      },
+      {
+        "text": " مندوبين توصيل",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b706fd5c-ec97-46fb-b554-0f33050c994b",
+    "data": [
+      {
+        "text": "مندوب توصيل",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "74fb9da0-e1d4-4fb4-806d-a2acd531dbec",
+    "data": [
+      {
+        "text": "التوصيل",
+        "userDefined": false
+      },
+      {
+        "text": " غالي",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8fb31872-b787-4459-83bb-3a5bbb6d42cc",
+    "data": [
+      {
+        "text": "هل التوصيل ",
+        "userDefined": false
+      },
+      {
+        "text": "غالي",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "77faa54e-3122-4c05-8cf4-1293ffb1815e",
+    "data": [
+      {
+        "text": "احتاج خدمة توصيل",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c33c69ea-e219-4e2e-aa4a-1be858a76cb6",
+    "data": [
+      {
+        "text": "عندكم توصيل",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4251c16f-3435-44a5-b3f0-f227b89feecf",
+    "data": [
+      {
+        "text": "في توصيل",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "02b1e48d-d562-44c5-b076-b8a5984e0b61",
+    "data": [
+      {
+        "text": "هل ",
+        "userDefined": false
+      },
+      {
+        "text": "لديكم",
+        "userDefined": false
+      },
+      {
+        "text": " توصيل",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f35a9a84-c30f-417f-90b4-bed187a5a335",
+    "data": [
+      {
+        "text": "هل يتوفر ",
+        "userDefined": false
+      },
+      {
+        "text": "لديكم",
+        "userDefined": false
+      },
+      {
+        "text": " خدمة توصيل",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "11882c5c-b9af-4ebd-84be-e35f06de09ce",
+    "data": [
+      {
+        "text": "كم خدمة التوصيل؟",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "30e034cc-3fbb-43af-b353-985922205834",
+    "data": [
+      {
+        "text": "كم اسعار التوصيل",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4f17e340-91b7-4192-aa2e-18d633fab58d",
+    "data": [
+      {
+        "text": "delivery representative",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ba7fa087-cd90-41eb-82f7-43816751f816",
+    "data": [
+      {
+        "text": "delivery",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2e82cccb-692b-4ba3-9ccc-fb09a5b9baa7",
+    "data": [
+      {
+        "text": "في ",
+        "userDefined": false
+      },
+      {
+        "text": "عندكم",
+        "userDefined": false
+      },
+      {
+        "text": " توصيل",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "181f17c0-4ede-4740-9070-3ebaf4de1326",
+    "data": [
+      {
+        "text": "الشحن",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a8e6fa7a-19cb-4304-895f-592313e186a7",
+    "data": [
+      {
+        "text": "تحقق من خيارات ",
+        "userDefined": false
+      },
+      {
+        "text": "التسليم",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e552f0ff-fbba-462c-87cb-fb85ce9304ef",
+    "data": [
+      {
+        "text": "ما هي خيارات الشحن",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0838f20a-507b-4411-83df-e4273c4f3887",
+    "data": [
+      {
+        "text": "الأطر ",
+        "userDefined": false
+      },
+      {
+        "text": "الزمنية",
+        "userDefined": false
+      },
+      {
+        "text": " للتسليم",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ad6d7cd5-76a1-4788-ae4b-91b038a581b9",
+    "data": [
+      {
+        "text": "أسعار الشحن",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8845474f-396a-471f-b79e-c521b8ae76cd",
+    "data": [
+      {
+        "text": "خيارات التوصيل",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2d763bc8-b116-4dea-983c-0a164aa75e22",
+    "data": [
+      {
+        "text": "توصيل",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "caae9929-2d3f-48c6-9e84-ef281e3acb79",
+    "data": [
+      {
+        "text": "خدمة ",
+        "userDefined": false
+      },
+      {
+        "text": "التوصيل",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d2b47414-ed7d-42e4-a222-1dc4e1939b2b",
+    "data": [
+      {
+        "text": "في توصيل؟",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f30910ae-f0df-441d-9a8e-4626e403d629",
+    "data": [
+      {
+        "text": "هل يمكنك أن تريني خيارات التسليم",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c3c6bcdb-3d26-4af9-bd18-affae84fe4cd",
+    "data": [
+      {
+        "text": "رسوم التوصيل",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

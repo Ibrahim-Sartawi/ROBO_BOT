@@ -1,0 +1,69 @@
+{
+  "id": "20c84c65-5bd8-4016-988e-e01571155c2b",
+  "name": "Contact.message",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "4",
+          "platform": "facebook",
+          "title": "",
+          "payload": {
+            "facebook": {
+              "attachment": {
+                "payload": {
+                  "template_type": "button",
+                  "text": "ماذا تريد أن تفعل الآن؟",
+                  "buttons": [
+                    {
+                      "title": "رجوع 🔙 ",
+                      "type": "postback",
+                      "payload": "تواصل"
+                    },
+                    {
+                      "title": "القائمة الرئيسية 💫",
+                      "payload": "القائمة الرئيسية",
+                      "type": "postback"
+                    }
+                  ]
+                },
+                "type": "template"
+              }
+            }
+          },
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "📩 إذا كنت تريد ترك رسالة ، فالرجاء إرسال بريد إلكتروني إلينا على support@example.com - سنقوم بالرد عليك في غضون 24 ساعة."
+          ],
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

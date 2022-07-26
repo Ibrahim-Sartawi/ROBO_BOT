@@ -1,0 +1,93 @@
+{
+  "id": "de4b7881-556a-4928-bbbb-29908b204ad3",
+  "name": "delivery.options",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "4",
+          "platform": "facebook",
+          "title": "",
+          "payload": {
+            "facebook": {
+              "attachment": {
+                "payload": {
+                  "url": "https://cdn.dribbble.com/users/442994/screenshots/4122398/media/e584a1cb78b9ba0709c0b498e0dffd07.gif",
+                  "is_reusable": true
+                },
+                "type": "image"
+              }
+            }
+          },
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "4",
+          "platform": "facebook",
+          "title": "",
+          "payload": {
+            "facebook": {
+              "attachment": {
+                "payload": {
+                  "template_type": "button",
+                  "text": "يمكنك التواصل مع المندوب ومعرفة طلبك ⬇⬇ ",
+                  "buttons": [
+                    {
+                      "title": "انظر على الخريطة 🗺️",
+                      "type": "web_url",
+                      "url": "https://www.google.com/maps/dir/%D8%A7%D9%84%D8%B2%D8%B1%D9%82%D8%A7%D8%A1%E2%80%AD/32.131155,36.0667711/@32.1198072,36.1599084,11.75z/data\u003d!4m9!4m8!1m5!1m1!1s0x151b658f76dbb883:0x6dbb13eec3c7a1f1!2m2!1d36.0941795!2d32.0608187!1m0!3e0"
+                    },
+                    {
+                      "payload": "+9627760*****",
+                      "type": "phone_number",
+                      "title": "الاتصال بالمندوب 📞"
+                    },
+                    {
+                      "type": "postback",
+                      "title": "القائمة الرئيسية 💫",
+                      "payload": "القائمة الرئيسية"
+                    }
+                  ]
+                },
+                "type": "template"
+              }
+            }
+          },
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "التسليم في طريقه ومن المفترض أن يصل في موعده المحدد"
+          ],
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

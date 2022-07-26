@@ -1,0 +1,86 @@
+{
+  "id": "dfb94f81-0d39-4d25-be8c-36863d1cd525",
+  "name": "item.add",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "5143b2b2-38a6-4304-99da-2d85d4e6b804",
+          "name": "product",
+          "required": false,
+          "dataType": "@product",
+          "value": "$product",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "4",
+          "platform": "facebook",
+          "title": "",
+          "payload": {
+            "facebook": {
+              "attachment": {
+                "payload": {
+                  "text": "ماذا تريد أن تفعل بعد ذلك؟",
+                  "buttons": [
+                    {
+                      "payload": "تسوق",
+                      "type": "postback",
+                      "title": "استمر في التسوق 💵 "
+                    },
+                    {
+                      "payload": "حساب المنتج",
+                      "title": "شراء 💸",
+                      "type": "postback"
+                    },
+                    {
+                      "type": "postback",
+                      "payload": "القائمة الرئيسية",
+                      "title": "رجوع 🔙"
+                    }
+                  ],
+                  "template_type": "button"
+                },
+                "type": "template"
+              }
+            }
+          },
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

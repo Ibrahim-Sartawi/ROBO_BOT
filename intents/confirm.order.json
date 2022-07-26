@@ -1,0 +1,62 @@
+{
+  "id": "493cbbe5-ba59-4db6-8ee1-df322b324caa",
+  "name": "confirm.order",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "4",
+          "platform": "facebook",
+          "title": "",
+          "payload": {
+            "facebook": {
+              "text": "هل تريد تأكيد الطلب؟🛒🥰",
+              "quick_replies": [
+                {
+                  "content_type": "text",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q\u003dtbn:ANd9GcSaX4Z46hhuqvWr885P4mKcT7NE5B89emv-2A\u0026usqp\u003dCAU",
+                  "payload": "\u003cPOSTBACK_PAYLOAD\u003e",
+                  "title": "تأكيد الطلب"
+                },
+                {
+                  "content_type": "text",
+                  "image_url": "https://w7.pngwing.com/pngs/57/101/png-transparent-cancel-icon-icons-matt-symbol.png",
+                  "payload": "\u003cPOSTBACK_PAYLOAD\u003e",
+                  "title": "الغاء الطلب"
+                }
+              ]
+            }
+          },
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

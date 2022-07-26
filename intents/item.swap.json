@@ -1,0 +1,71 @@
+{
+  "id": "c1132ce4-d62d-4049-a137-db4efe962ad7",
+  "name": "item.swap",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "d2015c58-f598-413f-a09a-9e7eaea41443",
+          "name": "product-remove",
+          "required": true,
+          "dataType": "@product",
+          "value": "$product-remove",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "ما العنصر الذي يجب إزالته؟"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "756230f9-1c82-4ae7-a2a1-6f12ddf97655",
+          "name": "product-add",
+          "required": true,
+          "dataType": "@product",
+          "value": "$product-add",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "ما العنصر الذي يجب علي إضافته بدلاً من ذلك؟"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

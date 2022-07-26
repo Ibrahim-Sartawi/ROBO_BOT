@@ -1,0 +1,83 @@
+{
+  "id": "6aea552d-7d72-420b-b99b-b5177efbc596",
+  "name": "discount.coupon",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "4",
+          "platform": "facebook",
+          "title": "",
+          "payload": {
+            "facebook": {
+              "attachment": {
+                "payload": {
+                  "is_reusable": true,
+                  "url": "https://media2.giphy.com/media/cJGXfq6lAofcf1BzlD/giphy.gif?cid\u003d790b7611fe2c8268ec2f0aa1a66c7ae3dce8668b24ad5d63\u0026rid\u003dgiphy.gif\u0026ct\u003dg"
+                },
+                "type": "image"
+              }
+            }
+          },
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "4",
+          "platform": "facebook",
+          "title": "",
+          "payload": {
+            "facebook": {
+              "attachment": {
+                "payload": {
+                  "template_type": "button",
+                  "text": "تفضل بزيارة موقعنا الالكتروني 💻",
+                  "buttons": [
+                    {
+                      "type": "web_url",
+                      "url": "https://www.amazon.com",
+                      "title": "موقعنا الالكتروني 💻"
+                    }
+                  ]
+                },
+                "type": "template"
+              }
+            }
+          },
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "اذا كنت من عملائنا المميزين فلدينا العديد من كوبونات الخصم على مدار الشهر، تفضل بزيارة موقعنا 🎁🎁🎁."
+          ],
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

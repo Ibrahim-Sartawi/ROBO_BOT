@@ -1,0 +1,80 @@
+[
+  {
+    "id": "b40754c8-a5c0-4018-a598-63f70ad8f74c",
+    "data": [
+      {
+        "text": "تحقق مما يوجد في عربة التسوق الخاصة بي",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a6e32048-bba2-4e31-88f3-59b5ae070024",
+    "data": [
+      {
+        "text": "عربة التسوق",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "74fa03b6-c1da-4156-bdfd-72f7e8cca224",
+    "data": [
+      {
+        "text": "ما هي العناصر الموجودة في عربة التسوق الخاصة بي في الوقت الحالي",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a74f8e24-e098-4b81-9cfe-e31a097775a4",
+    "data": [
+      {
+        "text": "فحص العربة",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6281cf5e-64af-4deb-b581-ff63b2316f50",
+    "data": [
+      {
+        "text": "ماذا يوجد في عربتي",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3ff4b871-ca3a-4dee-93b0-8fd5de051308",
+    "data": [
+      {
+        "text": "تحقق من عربتي",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

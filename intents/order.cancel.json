@@ -1,0 +1,55 @@
+{
+  "id": "fb9e16be-9382-435b-9af0-3efb559870c0",
+  "name": "order.cancel",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "50a6b060-5c34-497a-80c7-b577ac75ed61",
+          "name": "order_number",
+          "required": true,
+          "dataType": "@sys.number",
+          "value": "$order_number",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "هل يمكنك إخباري برقم الطلب الذي قمت به؟"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "شكرًا لك! لقد مررت طلبك إلى فريق الدعم لدينا. سيفعلون كل ما في وسعهم لتلبية طلبك."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

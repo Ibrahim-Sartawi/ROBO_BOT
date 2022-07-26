@@ -1,0 +1,124 @@
+[
+  {
+    "id": "844fe3eb-9732-47e6-828b-759447a1095c",
+    "data": [
+      {
+        "text": "استبدل هذا ",
+        "userDefined": false
+      },
+      {
+        "text": "السماعات",
+        "meta": "@product",
+        "alias": "product-remove",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8a91f350-814e-483a-b684-b1153e3a846e",
+    "data": [
+      {
+        "text": "استبدل ",
+        "userDefined": false
+      },
+      {
+        "text": "النظارات",
+        "meta": "@product",
+        "alias": "product-remove",
+        "userDefined": true
+      },
+      {
+        "text": " ب",
+        "userDefined": false
+      },
+      {
+        "text": "الماوس",
+        "meta": "@product",
+        "alias": "product-add",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1656d881-3002-4839-a311-6245a109011b",
+    "data": [
+      {
+        "text": "هل يمكنك استبدال ",
+        "userDefined": false
+      },
+      {
+        "text": "الماوس",
+        "meta": "@product",
+        "alias": "product-remove",
+        "userDefined": false
+      },
+      {
+        "text": " ب ",
+        "userDefined": false
+      },
+      {
+        "text": "الكيبورد",
+        "meta": "@product",
+        "alias": "product-add",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8fffb8ac-b3e5-4d66-ac38-958603ba899b",
+    "data": [
+      {
+        "text": "تبديل المنتج",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "83482ac4-a96d-4483-8a3b-69f692bea59b",
+    "data": [
+      {
+        "text": "تبديل ",
+        "userDefined": false
+      },
+      {
+        "text": "السماعة",
+        "meta": "@product",
+        "alias": "product-remove",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a0c84600-2d25-48fd-a9bb-fd6141328d9f",
+    "data": [
+      {
+        "text": "تبديل",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

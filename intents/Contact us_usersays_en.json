@@ -1,0 +1,417 @@
+[
+  {
+    "id": "b19ccdd6-7168-4844-9243-3cdd9e75da2d",
+    "data": [
+      {
+        "text": "اريد ان اتصل",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "926581cc-99d8-4175-98fc-b022b4a41ea6",
+    "data": [
+      {
+        "text": "كيف يمكنني الاتصال بك؟",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c99b3267-723e-4073-b3a7-0e31f79d7894",
+    "data": [
+      {
+        "text": "بدي ",
+        "userDefined": false
+      },
+      {
+        "text": "اتوصل",
+        "userDefined": false
+      },
+      {
+        "text": " مع المدير",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3b4b3bc5-e6da-4dec-81f5-968f8c978ea2",
+    "data": [
+      {
+        "text": "بدي",
+        "userDefined": false
+      },
+      {
+        "text": " اتصل بالمالك",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "90415756-d57c-45d4-8add-daaabd9e7ac1",
+    "data": [
+      {
+        "text": "بدي",
+        "userDefined": false
+      },
+      {
+        "text": " اتصل ب",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "16ef83b8-f966-496c-b4b4-f95e5af6ec85",
+    "data": [
+      {
+        "text": "هل يمكنني الاتصال بك؟",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "38834f5b-e2c5-46fb-8f26-5b1959ab469f",
+    "data": [
+      {
+        "text": "بدي",
+        "userDefined": false
+      },
+      {
+        "text": " اتصل فيك",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0e0663f1-ccbc-4cac-8463-4b387d7f8c80",
+    "data": [
+      {
+        "text": "بدي",
+        "userDefined": false
+      },
+      {
+        "text": " استفسر عن كثير شغلات كيف اتصل ",
+        "userDefined": false
+      },
+      {
+        "text": "بكم",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5ee520ff-5507-44c1-93e7-03f7825d91ac",
+    "data": [
+      {
+        "text": "تواصلو معي",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7cafa86c-55eb-462a-bad1-014911ccf0b5",
+    "data": [
+      {
+        "text": "بدي",
+        "userDefined": false
+      },
+      {
+        "text": " تتواصلو معي",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4d02ab55-5b32-43dd-adfb-ebdb53914ad8",
+    "data": [
+      {
+        "text": "هل تستطيع الاتصال بي؟",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "025a0b7d-e9f7-4b6f-9de5-df436be887d4",
+    "data": [
+      {
+        "text": "ارن",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2413b610-c649-4d54-abb3-16065d51fd72",
+    "data": [
+      {
+        "text": "رن",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "09ba9e92-6ccd-460a-a1e4-d7c4834bb7b1",
+    "data": [
+      {
+        "text": "تواصل",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "baa7c465-2ed0-40be-bcd5-9cd3aa9bccea",
+    "data": [
+      {
+        "text": "اتصال",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a04ddfa7-b0fb-4bde-8fe5-a3af9682cabe",
+    "data": [
+      {
+        "text": "اريد الحديث معكم",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9eaa9b67-cbb8-4a29-b7a6-e3cdb53d3735",
+    "data": [
+      {
+        "text": "هل يمكننا التحدث",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bc4693a6-455b-411e-a05b-1bfc2d9cd4f4",
+    "data": [
+      {
+        "text": "أيمكننا أن تحدث؟",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3f12e3a8-3b2b-4a76-89b8-2e8664f75932",
+    "data": [
+      {
+        "text": "أنا بحاجة للاتصال",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "89b5702f-97ea-48dd-8da7-51d26637ff24",
+    "data": [
+      {
+        "text": "كيفية التواصل",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c97a51df-2c2f-4ff4-b968-7c4872ff3441",
+    "data": [
+      {
+        "text": "بدي",
+        "userDefined": false
+      },
+      {
+        "text": " حسابكم لتواصل",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d306e9e7-9461-4624-baa9-50bdf59c0370",
+    "data": [
+      {
+        "text": "بدي ارن",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "93859c0f-71a5-4dfb-957f-5afb6be1f8da",
+    "data": [
+      {
+        "text": "كيف ",
+        "userDefined": false
+      },
+      {
+        "text": "بدي",
+        "userDefined": false
+      },
+      {
+        "text": " ارن",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a274d5a8-bd69-47de-bb6d-52c691a40569",
+    "data": [
+      {
+        "text": "بدي ",
+        "userDefined": false
+      },
+      {
+        "text": "ارن",
+        "userDefined": false
+      },
+      {
+        "text": " عليكم",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b19f6d08-0689-44b3-a341-a20fbf402a83",
+    "data": [
+      {
+        "text": "كيف ",
+        "userDefined": false
+      },
+      {
+        "text": "اتواصل",
+        "userDefined": false
+      },
+      {
+        "text": " معكم",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "16855a43-a4af-45da-8384-f1b1cadf5128",
+    "data": [
+      {
+        "text": "اريد التواصل معكم",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "37f113be-e15d-4208-bf07-32e7368554e8",
+    "data": [
+      {
+        "text": "اتصل ",
+        "userDefined": false
+      },
+      {
+        "text": "بنا",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

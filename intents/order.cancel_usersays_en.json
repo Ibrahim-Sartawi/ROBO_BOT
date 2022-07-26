@@ -1,0 +1,121 @@
+[
+  {
+    "id": "1321dff1-960f-4fae-a766-9f8dcf6bf4d7",
+    "data": [
+      {
+        "text": "قم بإزالة الطلب",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2e153313-0f94-49e4-a40e-06c4eaff5e03",
+    "data": [
+      {
+        "text": "لا أريد هذا الأمر بعد الآن",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e4983ea3-d253-4921-86b4-5a7d527ae722",
+    "data": [
+      {
+        "text": "حذف طلبي",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d4af481c-289b-43fd-be3e-0cd08d864339",
+    "data": [
+      {
+        "text": "أريد ",
+        "userDefined": false
+      },
+      {
+        "text": "إلغاء",
+        "userDefined": false
+      },
+      {
+        "text": " طلبي",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9f57f22b-786a-4812-8f08-cbb7c452a11d",
+    "data": [
+      {
+        "text": "لم أعد بحاجة إلى هذا ",
+        "userDefined": false
+      },
+      {
+        "text": "الطلب",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1b4351ae-3780-47b9-b43f-a5a7aeb63378",
+    "data": [
+      {
+        "text": "كيف ",
+        "userDefined": false
+      },
+      {
+        "text": "ألغي",
+        "userDefined": false
+      },
+      {
+        "text": " طلبي",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "44efea19-3ed2-4b4d-a427-d34412190e26",
+    "data": [
+      {
+        "text": "لقد غيرت ",
+        "userDefined": false
+      },
+      {
+        "text": "رأيي",
+        "userDefined": false
+      },
+      {
+        "text": " بشأن الطلب",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]
