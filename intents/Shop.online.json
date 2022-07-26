@@ -1,0 +1,139 @@
+{
+  "id": "6ddb8477-0944-4efd-a037-965ee973efa3",
+  "name": "Shop.online",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "2d73831b-7456-4e64-acf9-7bc9883bd485",
+          "name": "product",
+          "required": false,
+          "dataType": "@product",
+          "value": "$product",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "f68f779a-9572-4cdb-ac4a-3665e1241be5",
+          "name": "number",
+          "required": false,
+          "dataType": "@sys.number",
+          "value": "$number",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "4",
+          "platform": "facebook",
+          "title": "",
+          "payload": {
+            "facebook": {
+              "attachment": {
+                "payload": {
+                  "elements": [
+                    {
+                      "title": "💻 Laptops",
+                      "image_url": "https://i.imgur.com/ecl8ulA.jpg",
+                      "subtitle": "انقر فوق الزر أدناه لتصفح جميع\nأجهزة الكمبيوتر المحمولة المتاحة ⬇",
+                      "buttons": [
+                        {
+                          "payload": "laptop✅💻",
+                          "type": "postback",
+                          "title": "  تصفح 💻  "
+                        },
+                        {
+                          "payload": "القائمة الرئيسية",
+                          "type": "postback",
+                          "title": "  رجوع 🔙  "
+                        }
+                      ]
+                    },
+                    {
+                      "buttons": [
+                        {
+                          "title": "  تصفح 📱  ",
+                          "type": "web_url",
+                          "url": "https://www.amazon.com/ref\u003dnav_logo"
+                        },
+                        {
+                          "title": "  رجوع 🔙  ",
+                          "payload": "القائمة الرئيسية",
+                          "type": "postback"
+                        }
+                      ],
+                      "title": "📱Smartphones",
+                      "image_url": "https://i.imgur.com/6HYig4K.jpg",
+                      "subtitle": "انقر فوق الزر أدناه لتصفح جميع\nأجهزة الكمبيوتر المحمولة المتاحة ⬇"
+                    },
+                    {
+                      "buttons": [
+                        {
+                          "title": "  تصفح 📺  ",
+                          "url": "https://www.amazon.com/ref\u003dnav_logo",
+                          "type": "web_url"
+                        },
+                        {
+                          "payload": "القائمة الرئيسية",
+                          "title": "  رجوع 🔙  ",
+                          "type": "postback"
+                        }
+                      ],
+                      "subtitle": "انقر فوق الزر أدناه لتصفح جميع\nأجهزة الكمبيوتر المحمولة المتاحة ⬇",
+                      "image_url": "https://i.imgur.com/1fG7FoJ.jpg",
+                      "title": "📺OLED TVs"
+                    }
+                  ],
+                  "template_type": "generic"
+                },
+                "type": "template"
+              }
+            }
+          },
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "شكرا لتواصلك معنا , تفضل بزيارة موقعناالالكتروني لشراء المنتج الذي تريده 🥰😘"
+          ],
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": [],
+  "endInteraction": true
+}

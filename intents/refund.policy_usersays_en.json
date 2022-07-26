@@ -1,0 +1,208 @@
+[
+  {
+    "id": "8187a7fd-526c-45ea-bcfd-297c6e292f09",
+    "data": [
+      {
+        "text": "policy",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "175ca494-4615-489c-a66c-35310cd6a1ba",
+    "data": [
+      {
+        "text": "refund",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0d93e86a-09ca-4135-bd20-4f83510b3be2",
+    "data": [
+      {
+        "text": "كيف اعرف عملية الترجيع و ",
+        "userDefined": false
+      },
+      {
+        "text": "الاستبدال",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e4300752-ae73-4cf7-8cdb-8c44b2d6febd",
+    "data": [
+      {
+        "text": "كيف يتم تبديل اوترجيع ",
+        "userDefined": false
+      },
+      {
+        "text": "المنتج",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8059f6ad-8900-4477-9708-4262be6f157f",
+    "data": [
+      {
+        "text": "بدي",
+        "userDefined": false
+      },
+      {
+        "text": " اعرف كيف امور الاستبدل والارجاع",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f819eabe-0628-4143-ae60-9dc3dc5c5e0b",
+    "data": [
+      {
+        "text": "تعليمات الارجاع",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0fcc0b7a-5664-4a9a-93b8-3d72f1281cab",
+    "data": [
+      {
+        "text": "تعليمات الاستبدال",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c350b3a7-c4f5-444f-bb39-b58268aa7632",
+    "data": [
+      {
+        "text": "هل يمكنني معرفة تعليمات الاستبدال والارجاع",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0d2d88a2-7f91-4511-83d1-58c2e43a1959",
+    "data": [
+      {
+        "text": "ما هي سياسة الاسترداد؟",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "84331afb-396a-4efe-a11b-21c9bf1dd3ec",
+    "data": [
+      {
+        "text": "هل هناك أي سياسات استرداد",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "038d640c-c7e2-4c0a-b187-b80835d2dff0",
+    "data": [
+      {
+        "text": "أرني ",
+        "userDefined": false
+      },
+      {
+        "text": "سياسات",
+        "userDefined": false
+      },
+      {
+        "text": " الاسترداد الخاصة بك",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d4a260e5-278f-48f0-9e13-5f4ea64d4983",
+    "data": [
+      {
+        "text": "هل يمكنك توجيهي إلى صفحة سياسات الاسترداد الخاصة بك",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "76d97a20-5c7b-4267-ab67-a00ae204ab71",
+    "data": [
+      {
+        "text": "ماذا لو لم يعجبني المنتج؟ هل يمكنني استرداد أموالي ، ما هي السياسات؟",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4404b32d-849b-4122-af89-82833d69d945",
+    "data": [
+      {
+        "text": "سياسات ",
+        "userDefined": false
+      },
+      {
+        "text": "الاسترداد",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

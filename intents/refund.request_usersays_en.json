@@ -1,0 +1,199 @@
+[
+  {
+    "id": "10fb9970-1281-4389-a7b0-8bbf5365f423",
+    "data": [
+      {
+        "text": "request",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "220339e1-80b1-4dc8-866e-2b0761f3b7dc",
+    "data": [
+      {
+        "text": "refund request",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f484ed54-f316-479d-bd7f-3c2e5ef1f9f2",
+    "data": [
+      {
+        "text": "هل يمكنني استعادة ",
+        "userDefined": false
+      },
+      {
+        "text": "أموالي",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "66bcfb4b-e715-4a6d-ad21-a7ff073922e4",
+    "data": [
+      {
+        "text": "أريد إجراء تبادل",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "507b636a-d78f-464b-9572-67aed20c07ff",
+    "data": [
+      {
+        "text": "لقد تلقيت ",
+        "userDefined": false
+      },
+      {
+        "text": "سلعة",
+        "userDefined": false
+      },
+      {
+        "text": " خاطئة",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "32ee82a7-4b0c-40a9-b228-49b3a226192f",
+    "data": [
+      {
+        "text": "إلغاء عملية الشراء",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b00aa96e-79c7-4e07-807a-257d537b7813",
+    "data": [
+      {
+        "text": "أريد استرداد ",
+        "userDefined": false
+      },
+      {
+        "text": "المبلغ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2b32283a-76b6-4d11-86c9-9ecf77dacf4e",
+    "data": [
+      {
+        "text": "اريد ارجاع مشترياتي",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fd2a39d3-6025-467f-b0e1-a9c432e08de7",
+    "data": [
+      {
+        "text": "استرداد",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0082a8e5-02e5-4a6c-9092-8694ffda5abd",
+    "data": [
+      {
+        "text": "اريد استرجاع نقودي",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6113afa3-96f6-4b7e-87dc-f31cf967eb84",
+    "data": [
+      {
+        "text": "أطلب استرداد",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "967f18c5-1eb1-4840-af09-3ff246e5676d",
+    "data": [
+      {
+        "text": "أود",
+        "userDefined": false
+      },
+      {
+        "text": " إلغاء الشراء",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "dc410d04-14c5-4806-a321-c41e2ceb239c",
+    "data": [
+      {
+        "text": "استلمت ",
+        "userDefined": false
+      },
+      {
+        "text": "سلعة",
+        "userDefined": false
+      },
+      {
+        "text": " تالفة",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

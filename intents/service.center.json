@@ -1,0 +1,71 @@
+{
+  "id": "6663298c-f91a-4da1-9726-1f60d55b7205",
+  "name": "service.center",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "4",
+          "platform": "facebook",
+          "title": "",
+          "payload": {
+            "facebook": {
+              "attachment": {
+                "type": "template",
+                "payload": {
+                  "text": "يمكنك الاتصال بمركز الخدمة لدينا أو ترك رسالة بالضغط على الأزرار أدناه ⬇",
+                  "template_type": "button",
+                  "buttons": [
+                    {
+                      "title": "اتصل بالدعم 📞",
+                      "type": "phone_number",
+                      "payload": "+9627760*****"
+                    },
+                    {
+                      "payload": "sms",
+                      "title": "اترك رسالة 📝",
+                      "type": "postback"
+                    },
+                    {
+                      "title": "رجوع 🔙",
+                      "type": "postback",
+                      "payload": "تواصل"
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

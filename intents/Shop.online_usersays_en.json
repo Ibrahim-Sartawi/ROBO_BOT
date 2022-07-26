@@ -1,0 +1,870 @@
+[
+  {
+    "id": "f160852e-d266-410b-9ab1-2710bbef3048",
+    "data": [
+      {
+        "text": "تسوق",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c8b97dc5-73ab-4616-a57b-242638f5497a",
+    "data": [
+      {
+        "text": "اريد الشراء",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "90aaecef-1a54-4a48-a084-99f1e1b57322",
+    "data": [
+      {
+        "text": "بدي ",
+        "userDefined": false
+      },
+      {
+        "text": "اتسوق",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f851d246-6b9b-4422-b320-bf31dd747b08",
+    "data": [
+      {
+        "text": "طلب",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1a961fbc-61da-4375-92d8-90cd25c6d2d0",
+    "data": [
+      {
+        "text": "بدي ",
+        "userDefined": false
+      },
+      {
+        "text": "اوصي",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "94174396-347e-4da2-ac8e-d7c809e1b3bf",
+    "data": [
+      {
+        "text": "بدي اطلب",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e99f3c81-fe9a-45e5-8c40-f79d5d04b0aa",
+    "data": [
+      {
+        "text": "هل يمكنني الحصول على ",
+        "userDefined": false
+      },
+      {
+        "text": "شاشة",
+        "meta": "@product",
+        "alias": "product",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "98cca6db-bb17-4f75-a2a9-ed57c7604fbc",
+    "data": [
+      {
+        "text": " هل يمكنني الحصول على ",
+        "userDefined": false
+      },
+      {
+        "text": "خمسة",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "شاشات",
+        "meta": "@product",
+        "alias": "product",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3a4fd6c1-919d-4c81-a775-044354d7a583",
+    "data": [
+      {
+        "text": "اطلب ",
+        "userDefined": false
+      },
+      {
+        "text": "نظارات الواقع",
+        "meta": "@product",
+        "alias": "product",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "98f19fb7-6794-49f4-afd0-3653c1758dec",
+    "data": [
+      {
+        "text": "أريد ",
+        "userDefined": false
+      },
+      {
+        "text": "شاشة",
+        "meta": "@product",
+        "alias": "product",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "04496e2d-e51b-4b4e-bda3-1e74901bd097",
+    "data": [
+      {
+        "text": "اثنين",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": true
+      },
+      {
+        "text": " من ",
+        "userDefined": false
+      },
+      {
+        "text": "السماعات",
+        "meta": "@product",
+        "alias": "product",
+        "userDefined": true
+      },
+      {
+        "text": " المتوسط من فضلك",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bae63d53-243d-4471-9c66-4d7a8b590361",
+    "data": [
+      {
+        "text": "الناس بحاجة ",
+        "userDefined": false
+      },
+      {
+        "text": "سماعة",
+        "meta": "@product",
+        "alias": "product",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "372498ce-a95e-4655-b14a-eea242447b39",
+    "data": [
+      {
+        "text": "أود أن أطلب ",
+        "userDefined": false
+      },
+      {
+        "text": "نظارة",
+        "meta": "@product",
+        "alias": "product",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "dd8fefee-98fb-480d-81b8-842ea5129679",
+    "data": [
+      {
+        "text": "بدي  اشتري ",
+        "userDefined": false
+      },
+      {
+        "text": "ماوس",
+        "meta": "@product",
+        "alias": "product",
+        "userDefined": true
+      },
+      {
+        "text": " من فضلك",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "befc8c24-6d84-47a6-ae2a-aefba8007a46",
+    "data": [
+      {
+        "text": "2",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "سماعة",
+        "meta": "@product",
+        "alias": "product",
+        "userDefined": true
+      },
+      {
+        "text": " من فضلك",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2e136d97-fb56-4088-b6fa-f2bfc023e2d3",
+    "data": [
+      {
+        "text": "أحتاج ",
+        "userDefined": false
+      },
+      {
+        "text": "شاشة",
+        "meta": "@product",
+        "alias": "product",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cbb90f31-0511-4101-945b-23cc0622247f",
+    "data": [
+      {
+        "text": "بدور على جهاز ",
+        "userDefined": false
+      },
+      {
+        "text": "معين",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "37c2d3d4-d5b5-4629-b562-8aaea36aa646",
+    "data": [
+      {
+        "text": "بدور على ",
+        "userDefined": false
+      },
+      {
+        "text": "شاشة",
+        "meta": "@product",
+        "alias": "product",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "367fa82e-a8db-425e-935b-8427ab7bc8b1",
+    "data": [
+      {
+        "text": "اضف ",
+        "userDefined": false
+      },
+      {
+        "text": "السماعة",
+        "meta": "@product",
+        "alias": "product",
+        "userDefined": true
+      },
+      {
+        "text": " الى عربيتي",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "894cd84b-6628-4f63-ae6e-884e65fde5b3",
+    "data": [
+      {
+        "text": "انا ابحث عن ",
+        "userDefined": false
+      },
+      {
+        "text": "سماعة",
+        "meta": "@product",
+        "alias": "product",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "81303050-a356-404e-a56c-59558ff05799",
+    "data": [
+      {
+        "text": "أريد شراء شيء",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "739f881b-fa10-498f-b372-c3f87b761a4c",
+    "data": [
+      {
+        "text": "سماعت",
+        "meta": "@product",
+        "alias": "product",
+        "userDefined": true
+      },
+      {
+        "text": "ين",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "61075f69-18d9-4cc9-8d24-15afe9cdd8ea",
+    "data": [
+      {
+        "text": "عندكم ",
+        "userDefined": false
+      },
+      {
+        "text": "كيبورد",
+        "meta": "@product",
+        "alias": "product",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d4756971-998d-4fb1-a72f-244e6a16296b",
+    "data": [
+      {
+        "text": "شو سعر ",
+        "userDefined": false
+      },
+      {
+        "text": "الشاشة",
+        "meta": "@product",
+        "alias": "product",
+        "userDefined": true
+      },
+      {
+        "text": " عندكم",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f7227e59-306a-4072-a3bc-ceca4436cff6",
+    "data": [
+      {
+        "text": "في عندكم ",
+        "userDefined": false
+      },
+      {
+        "text": "شاشة",
+        "meta": "@product",
+        "alias": "product",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b458df4b-12eb-49b4-b561-a86bb804c040",
+    "data": [
+      {
+        "text": "شراء ",
+        "userDefined": false
+      },
+      {
+        "text": "ماوس",
+        "meta": "@product",
+        "alias": "product",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "77fbd573-2c3b-455b-9f53-50aa25fa5435",
+    "data": [
+      {
+        "text": "اوردر",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "سماعة",
+        "meta": "@product",
+        "alias": "product",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "99128042-13f1-4844-8e73-9bc1a6823578",
+    "data": [
+      {
+        "text": "بدي استفسر عن ",
+        "userDefined": false
+      },
+      {
+        "text": "السماعة",
+        "meta": "@product",
+        "alias": "product",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2b922057-e401-4a38-8b16-a2bc908e537c",
+    "data": [
+      {
+        "text": "ماوس",
+        "meta": "@product",
+        "alias": "product",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "49e4b52f-7aaa-472f-81ef-e834165558b7",
+    "data": [
+      {
+        "text": "بدي اطلب ",
+        "userDefined": false
+      },
+      {
+        "text": "ماوس",
+        "meta": "@product",
+        "alias": "product",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "df6beda4-19c0-4efd-a143-23ca0178e386",
+    "data": [
+      {
+        "text": "شو وضع ",
+        "userDefined": false
+      },
+      {
+        "text": "الشاشات",
+        "meta": "@product",
+        "alias": "product",
+        "userDefined": true
+      },
+      {
+        "text": " عندكم",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7dabf7c8-4d97-4a0d-89ad-4a4ddfbeabfc",
+    "data": [
+      {
+        "text": "كيف ",
+        "userDefined": false
+      },
+      {
+        "text": "النظارات",
+        "meta": "@product",
+        "alias": "product",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "عندكم",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "43030871-85ef-4ed7-9b79-a84ba8d57d56",
+    "data": [
+      {
+        "text": "كيف اشتري ",
+        "userDefined": false
+      },
+      {
+        "text": "سماعة",
+        "meta": "@product",
+        "alias": "product",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e4de0231-dc63-4408-9c29-44eec79a0790",
+    "data": [
+      {
+        "text": "بقدر اشتري ",
+        "userDefined": false
+      },
+      {
+        "text": "سماعة",
+        "meta": "@product",
+        "alias": "product",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8c223c1a-20b0-477a-89ba-389e9c70c1f7",
+    "data": [
+      {
+        "text": "بدي اسال عن ",
+        "userDefined": false
+      },
+      {
+        "text": "سماعة",
+        "meta": "@product",
+        "alias": "product",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1bd57474-4d11-4aee-9dfb-255378e9f329",
+    "data": [
+      {
+        "text": "بدي اشتري",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3a5c5c9a-72b5-422c-8df6-02671959982f",
+    "data": [
+      {
+        "text": "محتاج اشتري ",
+        "userDefined": false
+      },
+      {
+        "text": "ماوس",
+        "meta": "@product",
+        "alias": "product",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "940a4802-3737-4cd3-8229-e47a6f61dea9",
+    "data": [
+      {
+        "text": "بدي اوصي على ",
+        "userDefined": false
+      },
+      {
+        "text": "شاشة",
+        "meta": "@product",
+        "alias": "product",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "14f20f5b-1bbe-4b30-ba7c-6a09542a910f",
+    "data": [
+      {
+        "text": "أريد ",
+        "userDefined": false
+      },
+      {
+        "text": "ماوس",
+        "meta": "@product",
+        "alias": "product",
+        "userDefined": true
+      },
+      {
+        "text": " أذهب",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fbe567a3-4ee8-46e0-8913-037507d2602c",
+    "data": [
+      {
+        "text": "أريد ",
+        "userDefined": false
+      },
+      {
+        "text": "سماعة",
+        "meta": "@product",
+        "alias": "product",
+        "userDefined": true
+      },
+      {
+        "text": " يتم ",
+        "userDefined": false
+      },
+      {
+        "text": "توصيلها",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "49b7b537-7f22-4dcf-99dd-64a5917409cd",
+    "data": [
+      {
+        "text": "2",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": true
+      },
+      {
+        "text": "  ",
+        "userDefined": false
+      },
+      {
+        "text": "سماعة",
+        "meta": "@product",
+        "alias": "product",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6a92126a-2e03-4539-9d4f-3e71cfcf7728",
+    "data": [
+      {
+        "text": "هل يمكنني الحصول على ",
+        "userDefined": false
+      },
+      {
+        "text": "نظارة",
+        "meta": "@product",
+        "alias": "product",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2328b615-7275-4d3a-8481-744d9fa8cea6",
+    "data": [
+      {
+        "text": "هل لديك ",
+        "userDefined": false
+      },
+      {
+        "text": "كيبورد",
+        "meta": "@product",
+        "alias": "product",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4d86d62f-08ad-448e-ab0d-27343a2a14c7",
+    "data": [
+      {
+        "text": "أنا أحب ",
+        "userDefined": false
+      },
+      {
+        "text": "نظارات الواقع الافتراضي",
+        "meta": "@product",
+        "alias": "product",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

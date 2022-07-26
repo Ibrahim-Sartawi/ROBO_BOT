@@ -1,0 +1,64 @@
+{
+  "id": "db9bb911-649b-4d05-b2ad-7eb99971879f",
+  "name": "refund.request",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "4",
+          "platform": "facebook",
+          "title": "",
+          "payload": {
+            "facebook": {
+              "attachment": {
+                "payload": {
+                  "buttons": [
+                    {
+                      "title": "موقعنا الالكتروني 💻",
+                      "url": "https://www.amazon.com/ref\u003dnav_logo",
+                      "type": "web_url"
+                    }
+                  ],
+                  "text": "تفضل بزيارة موقعنا لتاكيد عملية الارجاع اوالاستبدال 💻",
+                  "template_type": "button"
+                },
+                "type": "template"
+              }
+            }
+          },
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "يمكن استبدال أو إرجاع أي عناصر لا تحبها في متجرنا مجانًا."
+          ],
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

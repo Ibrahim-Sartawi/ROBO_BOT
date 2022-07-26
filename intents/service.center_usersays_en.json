@@ -1,0 +1,161 @@
+[
+  {
+    "id": "a2d69d5b-37d6-4db8-a9fc-cf6d2a3597df",
+    "data": [
+      {
+        "text": "بدي",
+        "userDefined": false
+      },
+      {
+        "text": " خدمة",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "141f50db-a49d-46e8-b416-68c739b6e0b3",
+    "data": [
+      {
+        "text": "كيف احصل على مساعدة؟",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f00cdd66-3c4c-4ed6-872e-f8e70a2d6f74",
+    "data": [
+      {
+        "text": "مساعدة",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1d475cae-4ba5-401d-90ed-7bd77bf9ba62",
+    "data": [
+      {
+        "text": "احتاج مساعدة",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a2cb4f27-e955-40b0-836b-050dfd2b122d",
+    "data": [
+      {
+        "text": "بدي حدا ",
+        "userDefined": false
+      },
+      {
+        "text": "يساعدني",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "214ac170-f246-48ca-a38a-692a1588f788",
+    "data": [
+      {
+        "text": "بدي",
+        "userDefined": false
+      },
+      {
+        "text": " اتواصل معكم بطريقة ثانية",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "530697c2-d0dd-496a-a2db-0964605278ed",
+    "data": [
+      {
+        "text": "احتاج طريقة اخرى ",
+        "userDefined": false
+      },
+      {
+        "text": "لتواصل",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cf6b496e-783b-422a-936e-e6d7d06da976",
+    "data": [
+      {
+        "text": "هل يوجد وسيلة اخرى لتواصل معكم",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e46dc721-c0a4-442c-99dd-78d838314e5b",
+    "data": [
+      {
+        "text": "احتاج مركز الخدمات",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8a607cfb-9328-4c28-a277-a7f38ea463cf",
+    "data": [
+      {
+        "text": "مركز الخدمات من فضلك",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f248a954-acda-4fdc-a76b-eecfa8626396",
+    "data": [
+      {
+        "text": "مركز خدمات",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

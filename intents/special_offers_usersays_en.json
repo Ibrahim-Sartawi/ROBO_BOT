@@ -1,0 +1,597 @@
+[
+  {
+    "id": "8fb15b6f-aaee-43d9-a3f3-ae8d9b23e25a",
+    "data": [
+      {
+        "text": "قائمة العروض",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1e21d78c-eb87-4745-9615-0e9fcac7afa2",
+    "data": [
+      {
+        "text": "عروضنا 🔥",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6f6950a4-88e4-4d00-b805-bb5374a974b4",
+    "data": [
+      {
+        "text": " SALE 🔥",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c2ed24ea-6d80-4f7b-a2e2-64e9aedfd64a",
+    "data": [
+      {
+        "text": "🔥 SALE",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f3874095-7879-4368-a4db-b4d5484f5b9b",
+    "data": [
+      {
+        "text": "SALE",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ad104ff1-114d-4108-ba64-f462b219b22e",
+    "data": [
+      {
+        "text": "🔥",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e031b34e-3025-4c80-89a9-50994255122f",
+    "data": [
+      {
+        "text": "عروضنا",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9f5828ef-1486-4fba-81aa-1f4b0c95a804",
+    "data": [
+      {
+        "text": "offer",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "13677e0e-5f4b-4382-b064-cf59c2719dba",
+    "data": [
+      {
+        "text": "Price offer",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b5615dbc-ec39-4a05-9c62-874dd4502258",
+    "data": [
+      {
+        "text": "بدي",
+        "userDefined": false
+      },
+      {
+        "text": " اوفر اليوم",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "25b98c7e-7da4-4261-8ede-176bc06016f0",
+    "data": [
+      {
+        "text": "اوفر",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bc755cef-c40b-49af-9735-0a4059eef3c1",
+    "data": [
+      {
+        "text": "في اوفر",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "dadccc59-b4db-49a7-850d-d405b22a5e58",
+    "data": [
+      {
+        "text": "عرض ",
+        "userDefined": false
+      },
+      {
+        "text": "خفيف",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ba54e06b-f9ed-4eec-b6fb-27cbd54151fb",
+    "data": [
+      {
+        "text": "المنتجات التي تحتوي على عرض",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "dbe10908-22b6-497b-a97c-c09faf99a628",
+    "data": [
+      {
+        "text": "شو",
+        "userDefined": false
+      },
+      {
+        "text": " عروضكم اليوم",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e6ec480d-38e0-4db7-a5a8-09c960cbfc0c",
+    "data": [
+      {
+        "text": "عرض عيد",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6fe250c8-4ad2-496e-9a2f-008f9f788508",
+    "data": [
+      {
+        "text": "كيف ",
+        "userDefined": false
+      },
+      {
+        "text": "الاسعار",
+        "userDefined": false
+      },
+      {
+        "text": " اليوم",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1ecdd60c-1282-4b4a-aaef-282abf69165b",
+    "data": [
+      {
+        "text": "السعر غالي",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c4d93fb4-a630-48a2-96b0-ab7e9c33f631",
+    "data": [
+      {
+        "text": "كيف احصل على ",
+        "userDefined": false
+      },
+      {
+        "text": "خصم",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0ef67505-32fd-431d-99a6-78eba3d19e03",
+    "data": [
+      {
+        "text": "عروض بمناسبة العيد",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "725eca46-0aa9-436a-bba5-291647d3e5f3",
+    "data": [
+      {
+        "text": "في ",
+        "userDefined": false
+      },
+      {
+        "text": "خصومات",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "64b7eef3-0e85-4b67-b9bc-7386a7b5b1a8",
+    "data": [
+      {
+        "text": "بدي تعملي ",
+        "userDefined": false
+      },
+      {
+        "text": "خصم",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "891cf185-d37b-4ff6-b368-161299f8daac",
+    "data": [
+      {
+        "text": "في خصم ",
+        "userDefined": false
+      },
+      {
+        "text": "عندكم",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "88ad3b6a-4f45-4967-95a0-06a346df4791",
+    "data": [
+      {
+        "text": "انا ابحث عن عرض",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a7f25157-1041-44e0-b516-088001f6e08b",
+    "data": [
+      {
+        "text": "في عروض اليوم",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9ee15a50-72f4-404b-a343-c27be0228d01",
+    "data": [
+      {
+        "text": "شو في ",
+        "userDefined": false
+      },
+      {
+        "text": "عندكم",
+        "userDefined": false
+      },
+      {
+        "text": " عروض؟",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f5d71942-01a4-447a-b648-d69be2ed4296",
+    "data": [
+      {
+        "text": "عرض خاص",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "29d6e728-870f-49ba-9e59-2a30f3c79a33",
+    "data": [
+      {
+        "text": "في ",
+        "userDefined": false
+      },
+      {
+        "text": "عندكم",
+        "userDefined": false
+      },
+      {
+        "text": " عروض",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c8cbdf01-e2f5-476c-a549-95fff21a63f8",
+    "data": [
+      {
+        "text": "عرض",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "301c4abf-1294-4935-9e18-50dcd5e673a4",
+    "data": [
+      {
+        "text": "هل ",
+        "userDefined": false
+      },
+      {
+        "text": "لديك",
+        "userDefined": false
+      },
+      {
+        "text": " عروض خاصة",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c56a559b-69c5-42d5-beba-3d62e0390c11",
+    "data": [
+      {
+        "text": "إنه مكلف للغاية بالنسبة لي",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "57d87760-581f-4c6a-9ab4-b678cd608bcb",
+    "data": [
+      {
+        "text": "سعر خاص",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "aeaeee07-0f09-4f40-bd68-57f87f9084b3",
+    "data": [
+      {
+        "text": "هل يمكنني الحصول على ",
+        "userDefined": false
+      },
+      {
+        "text": "خصومات",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2f11591e-1336-48fb-a9ce-64c6a2c1f75c",
+    "data": [
+      {
+        "text": "غالي",
+        "userDefined": false
+      },
+      {
+        "text": " جدا بالنسبة لي",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cd255ed5-4867-4e65-8fd9-ebebd9156422",
+    "data": [
+      {
+        "text": "العروض ",
+        "userDefined": false
+      },
+      {
+        "text": "الحالية",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "49c69aaa-4755-459b-9125-ee882e087746",
+    "data": [
+      {
+        "text": "أي عروض خاصة اليوم",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0769fb91-9143-490c-a7fb-f87ca5295565",
+    "data": [
+      {
+        "text": "هل ",
+        "userDefined": false
+      },
+      {
+        "text": "لديكم",
+        "userDefined": false
+      },
+      {
+        "text": " أي ",
+        "userDefined": false
+      },
+      {
+        "text": "خصومات",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5bd8d48a-64a5-4004-8896-3ae9c83313d5",
+    "data": [
+      {
+        "text": "بعض المنتجات باهظة ",
+        "userDefined": false
+      },
+      {
+        "text": "الثمن",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b5c375b3-67ee-46e8-bbd8-ac0301157608",
+    "data": [
+      {
+        "text": "عرض اليوم",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

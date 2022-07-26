@@ -1,0 +1,64 @@
+{
+  "id": "7cbf7acf-66e7-4881-8640-6a757f2f79ba",
+  "name": "refund.policy",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "4",
+          "platform": "facebook",
+          "title": "",
+          "payload": {
+            "facebook": {
+              "attachment": {
+                "payload": {
+                  "text": "تفضل بزيارة موقعنا لمعرفة سياسة الاسترداد 💻",
+                  "template_type": "button",
+                  "buttons": [
+                    {
+                      "type": "web_url",
+                      "url": "https://www.amazon.sa/gp/help/customer/display.html?nodeId\u003d202045170",
+                      "title": "سياسة الإرجاع واسترداد"
+                    }
+                  ]
+                },
+                "type": "template"
+              }
+            }
+          },
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "يمكن استبدال أو إرجاع أي عناصر لا تحبها في متجرنا مجانًا🔁"
+          ],
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}
