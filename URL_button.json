@@ -1,0 +1,28 @@
+
+{
+   "fulfillmentMessages":[
+  {
+     "payload":{
+        "facebook":{
+           "attachment":{
+              "type":"template",
+              "payload":{
+                 "text":"نرحب بكل الاستفسارات والشكاوي",
+                 "template_type":"button",
+                 "buttons":[
+                    {
+                       "title":"رابط الاستفسارات والشكاوي",
+                       "url":"https://www.google.com/",
+                       "type":"web_url",
+                       "webview_height_ratio":"tall"
+                    }
+                 ]
+              }
+           }
+        }
+     },
+     "platform":"FACEBOOK"
+  }
+  
+]
+}
