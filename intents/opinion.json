@@ -1,0 +1,37 @@
+{
+  "id": "a7b89fc7-4afd-4f74-a014-6d62a2956fd9",
+  "name": "opinion",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.opinion",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "شكرا لكم نتمنى ان نكون عند حسن ظنكم",
+            "شكرا لكم على هذه الافادة",
+            "نشكر اهتمامكم"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}
