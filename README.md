@@ -23,11 +23,11 @@ If there's anything you'd like to chat about, please feel free .
 
 ## Project Intfrastructure
 
--Front-end: Word Press to make admin portal, Flutter (when we target phone app). 
--Back-end: Nodejs framework, python. 
--Intermediary: API from (Facebook, Google cloud). 
--Data store and access: Cloud store (firebase). 
--Chabot Agent: Dialogflow
+-[Front-end: Word Press to make admin portal, Flutter (when we target phone app). ]
+-[Back-end: Nodejs framework, python. ]
+-[Intermediary: API from (Facebook, Google cloud).] 
+-[Data store and access: Cloud store (firebase). ]
+-[Chabot Agent: Dialogflow]
 
 
 
