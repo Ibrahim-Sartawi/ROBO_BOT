@@ -1,0 +1,106 @@
+{
+  "id": "086dbddd-b611-4876-b44c-f941b9404731",
+  "name": "search.product",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "4",
+          "platform": "facebook",
+          "title": "",
+          "payload": {
+            "facebook": {
+              "attachment": {
+                "type": "template",
+                "payload": {
+                  "elements": [
+                    {
+                      "subtitle": "AMD Ryzen 5 2500U\nRAM: 8 GB\nSSD Drive:256 GB",
+                      "title": "Huawei MateBook D - $680 USD",
+                      "buttons": [
+                        {
+                          "title": "اضف الى السلة ➕",
+                          "payload": "اضافة عنصر",
+                          "type": "postback"
+                        },
+                        {
+                          "payload": "القائمة الرئيسية",
+                          "type": "postback",
+                          "title": "رجوع 🔙"
+                        }
+                      ],
+                      "image_url": "https://i.imgur.com/8RXIDUU.png"
+                    },
+                    {
+                      "image_url": "https://i.imgur.com/Py2UyiT.png",
+                      "subtitle": "Intel Core i5-8250U\nRAM: 8 GB\nSSD Drive: 240 GB ",
+                      "buttons": [
+                        {
+                          "type": "postback",
+                          "title": "اضف الى السلة ➕",
+                          "payload": "اضافة عنصر"
+                        },
+                        {
+                          "title": "رجوع 🔙",
+                          "payload": "القائمة الرئيسية",
+                          "type": "postback"
+                        }
+                      ],
+                      "title": "ASUS VivoBook R520 - $799 USD"
+                    },
+                    {
+                      "buttons": [
+                        {
+                          "type": "postback",
+                          "title": "اضف الى السلة ➕",
+                          "payload": "اضافة عنصر"
+                        },
+                        {
+                          "payload": "القائمة الرئيسية",
+                          "title": "رجوع 🔙",
+                          "type": "postback"
+                        }
+                      ],
+                      "title": "Dell Inspiron 3567 - $470 USD",
+                      "subtitle": "Intel Core i3-7020U\nRAM: 8 GB\nSSD SATA Drive: 240 GB",
+                      "image_url": "https://i.imgur.com/SfOLtSq.png"
+                    }
+                  ],
+                  "template_type": "generic"
+                }
+              }
+            }
+          },
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

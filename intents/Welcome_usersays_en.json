@@ -1,0 +1,551 @@
+[
+  {
+    "id": "30d66434-44fe-4bd7-9dd1-215719c06bc1",
+    "data": [
+      {
+        "text": "كيف ",
+        "userDefined": false
+      },
+      {
+        "text": "الحال",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "87311545-f6bd-488a-ab60-6fdbafb80706",
+    "data": [
+      {
+        "text": "كيفك",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "985c0800-d227-4ce0-9a6e-39f823468f09",
+    "data": [
+      {
+        "text": "زمان عنكم",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9c3045be-dd0d-4df2-913d-c69f2ae2c798",
+    "data": [
+      {
+        "text": "من زمان عنكم",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b2e73c36-41e5-4415-a317-09cf5d6a5cfc",
+    "data": [
+      {
+        "text": "اهلا وسهلا",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5f7ff9b7-4771-45bb-a0bb-36dbdd448d53",
+    "data": [
+      {
+        "text": "بدء الاستخدام",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bdeca92b-6614-4c68-b51e-55a6292a2206",
+    "data": [
+      {
+        "text": "بدء",
+        "userDefined": false
+      },
+      {
+        "text": " التجربة",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c4053fcb-0c66-452c-9ced-956bf3317d11",
+    "data": [
+      {
+        "text": "هاي",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1512e5c5-dd9e-49f9-af26-900722ef6c2b",
+    "data": [
+      {
+        "text": "معلم",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8e36ae87-a63d-4883-9cf5-5875fa4c251d",
+    "data": [
+      {
+        "text": "يسطا",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6e458393-cb9d-460d-ba3d-d8fe6fc7e89c",
+    "data": [
+      {
+        "text": "مساء النور",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "031628bf-699e-4518-a680-7d43eae9fab1",
+    "data": [
+      {
+        "text": "صباح ",
+        "userDefined": false
+      },
+      {
+        "text": "الفل",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bcb1ef7b-4788-4a89-a4e6-b8cb95f7ee2a",
+    "data": [
+      {
+        "text": "باشا",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8659675c-106c-478f-a18e-be87b9d1f627",
+    "data": [
+      {
+        "text": "ازيك",
+        "userDefined": false
+      },
+      {
+        "text": " يا ",
+        "userDefined": false
+      },
+      {
+        "text": "باشا",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c3b766c8-9d08-4122-9b19-cdff768e655b",
+    "data": [
+      {
+        "text": "ازيك",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "aeece406-d5dc-4f07-b751-e31e23c77c09",
+    "data": [
+      {
+        "text": "مساعدة",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "33bba4a4-4268-4861-9ecd-67ba2d3eaf2c",
+    "data": [
+      {
+        "text": "مساء ",
+        "userDefined": false
+      },
+      {
+        "text": "الفل",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cff8a46e-afdb-4fd5-a95a-dcd416c381a7",
+    "data": [
+      {
+        "text": "صباح ",
+        "userDefined": false
+      },
+      {
+        "text": "الورد",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "358b954e-5b82-4af9-81cd-f0bede63eee0",
+    "data": [
+      {
+        "text": "صباح النور",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d93bffd6-d8cc-4bd4-8ba2-97b6dfb2e0a4",
+    "data": [
+      {
+        "text": "تحياتي",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b7144910-a1a7-4260-95ca-66c72f9f41b8",
+    "data": [
+      {
+        "text": "استفسار",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "db717f2a-c995-46a2-bcdd-cc1df861f5e6",
+    "data": [
+      {
+        "text": "بدي ",
+        "userDefined": false
+      },
+      {
+        "text": "استفسر",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "45a3d451-b08a-434f-9862-429e9752d50e",
+    "data": [
+      {
+        "text": "مرحبا",
+        "userDefined": true
+      },
+      {
+        "text": " مرة اخرى",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "eea8afc0-d7ba-47b8-ae6e-361b35fb3e7a",
+    "data": [
+      {
+        "text": "كيف ",
+        "userDefined": false
+      },
+      {
+        "text": "حالكم",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "91d6b77e-606d-4467-8c63-592cd95547d0",
+    "data": [
+      {
+        "text": "يعطيك",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "العافية",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b4ce9d89-2975-4abf-b057-2f020d06c33c",
+    "data": [
+      {
+        "text": "احتاج الى ",
+        "userDefined": false
+      },
+      {
+        "text": "مساعدة",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "039e120e-c328-4dd8-aef5-4a37dc242e2c",
+    "data": [
+      {
+        "text": "مساء",
+        "userDefined": true
+      },
+      {
+        "text": " الخير",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d9593c86-540d-4de6-9420-d6f9b3ba5b88",
+    "data": [
+      {
+        "text": "صباح",
+        "userDefined": true
+      },
+      {
+        "text": " الخير",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ca3872ee-2183-4e7e-a686-6a2d184c0422",
+    "data": [
+      {
+        "text": "العافية",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "890937de-7d7b-4746-ab0f-3e6e5cdd19a8",
+    "data": [
+      {
+        "text": "اسلام عليكم",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9a7eef98-a73c-4a1b-801b-37f2a7f6c64e",
+    "data": [
+      {
+        "text": "سؤال",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9e31f5a6-ef3e-468e-bf9e-b02dee4019ab",
+    "data": [
+      {
+        "text": "؟",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "16200358-9565-4413-8ef7-d72d86e8d0e0",
+    "data": [
+      {
+        "text": "عندي ",
+        "userDefined": false
+      },
+      {
+        "text": "سؤال",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ba64e1d3-3c13-426c-a3dc-e6a3a67dcaf1",
+    "data": [
+      {
+        "text": "عوافي",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8e4410f0-3df3-42e8-a89d-527b688d7d29",
+    "data": [
+      {
+        "text": "مرحبا",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "eba2b94e-e97e-4422-ae46-c25041231425",
+    "data": [
+      {
+        "text": "السلام",
+        "userDefined": true
+      },
+      {
+        "text": " عليكم",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "baa4f2f6-b85a-4d35-b617-dddbd7b86cb4",
+    "data": [
+      {
+        "text": "مراحب",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

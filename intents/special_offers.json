@@ -1,0 +1,130 @@
+{
+  "id": "7450f4b9-8f12-4411-aa3b-4b30d6cce63d",
+  "name": "special_offers",
+  "auto": true,
+  "contexts": [
+    "product-search"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "4",
+          "platform": "facebook",
+          "title": "",
+          "payload": {
+            "facebook": {
+              "attachment": {
+                "payload": {
+                  "url": "https://www.nicepng.com/png/detail/238-2387341_special-offers-inviting-company-online-special-offers-for.png",
+                  "is_reusable": true
+                },
+                "type": "image"
+              }
+            }
+          },
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "4",
+          "platform": "facebook",
+          "title": "",
+          "payload": {
+            "facebook": {
+              "attachment": {
+                "type": "template",
+                "payload": {
+                  "template_type": "generic",
+                  "elements": [
+                    {
+                      "title": "🔥DJI Mavic 2 PRO - $1499 USD",
+                      "image_url": "https://i.imgur.com/lpEDztD.png",
+                      "buttons": [
+                        {
+                          "title": "اضافة الى السلة 🛒",
+                          "payload": "اضافة عنصر",
+                          "type": "postback"
+                        },
+                        {
+                          "type": "postback",
+                          "title": "الرجوع للخلف 🔙 ",
+                          "payload": "القائمة الرئيسية"
+                        }
+                      ],
+                      "subtitle": "Camera: 20 Mpix\nBattery life: 31 min\nVideo resolution: 4K, 2160p, FHD"
+                    },
+                    {
+                      "buttons": [
+                        {
+                          "type": "postback",
+                          "payload": "اضافة عنصر ",
+                          "title": "اضافة الى السلة 🛒"
+                        },
+                        {
+                          "title": "الرجوع للخلف 🔙 ",
+                          "payload": "القائمة الرئيسية",
+                          "type": "postback"
+                        }
+                      ],
+                      "subtitle": "Qualcomm Snapdragon 835\nSize: 64 GB\nRAM:4 GB DDR3\nDisplay: 10\u0027",
+                      "image_url": "https://i.imgur.com/XM9PoA0.png",
+                      "title": "🔥Galaxy Tab S4 - $649 USD"
+                    },
+                    {
+                      "image_url": "https://i.imgur.com/Z8JmOOC.png",
+                      "buttons": [
+                        {
+                          "title": "اضافة الى السلة 🛒",
+                          "payload": "اضافة عنصر",
+                          "type": "postback"
+                        },
+                        {
+                          "type": "postback",
+                          "title": "الرجوع للخلف 🔙 ",
+                          "payload": "القائمة الرئيسية"
+                        }
+                      ],
+                      "title": "🔥SteelSeries Rival - $24.99 USD",
+                      "subtitle": "Type: Gaming\nSensor: Optic\nButtons: 6\nResolution: 7200 dpi"
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "🎁🎁الق نظرة على موقعنا. لدينا دائما بعض العروض الشيقة هناك."
+          ],
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

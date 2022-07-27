@@ -1,0 +1,79 @@
+{
+  "id": "1e044072-65aa-4f40-9735-7276b022fd02",
+  "name": "wait.list",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "4",
+          "platform": "facebook",
+          "title": "",
+          "payload": {
+            "facebook": {
+              "attachment": {
+                "payload": {
+                  "text": "ماذا تريد ان تفعل لاحقا؟",
+                  "buttons": [
+                    {
+                      "title": "اتصل بالدعم 📞",
+                      "payload": "مركز خدمات",
+                      "type": "postback"
+                    },
+                    {
+                      "payload": "القائمة الرئيسية",
+                      "title": "القائمة الرئيسية",
+                      "type": "postback"
+                    }
+                  ],
+                  "template_type": "button"
+                },
+                "type": "template"
+              }
+            }
+          },
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "✅ حسنًا ، لقد أضفت طلبك إلى قائمة الانتظار.\nسنرسل إليك بريدًا إلكترونيًا يحتوي على تفاصيل الدفع عندما يكون جاهزًا."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "سيتم إرسال الطرد الخاص بك في غضون 24 ساعة بعد تحصيل دفعتك."
+          ],
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

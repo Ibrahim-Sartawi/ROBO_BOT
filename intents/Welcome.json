@@ -1,0 +1,98 @@
+{
+  "id": "e0e5034a-92f0-41b8-9901-2229a1f164a0",
+  "name": "Welcome",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.welcome",
+      "affectedContexts": [
+        {
+          "name": "product-search",
+          "lifespan": 12
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "4",
+          "platform": "facebook",
+          "title": "",
+          "payload": {
+            "facebook": {
+              "attachment": {
+                "payload": {
+                  "elements": [
+                    {
+                      "subtitle": "تفضل يمكنك التسوق اونلاين من متجرنا✅✅",
+                      "title": "👋👋مرحبًا بكم في متجرنا! اسمحوا لي أن أعرف كيف يمكنني مساعدتك:",
+                      "buttons": [
+                        {
+                          "payload": "قائمة العروض",
+                          "title": "عروضنا 🔥",
+                          "type": "postback"
+                        },
+                        {
+                          "payload": "تسوق",
+                          "type": "postback",
+                          "title": "تسوق اونلاين 🛒"
+                        },
+                        {
+                          "title": "حالة الطلب 📦",
+                          "payload": "حالة الطلب",
+                          "type": "postback"
+                        }
+                      ],
+                      "image_url": "https://t3.ftcdn.net/jpg/04/85/76/74/240_F_485767474_j6hIvxrYeDOt7nVKr17qhE6AWZqgISxR.jpg"
+                    }
+                  ],
+                  "template_type": "generic"
+                },
+                "type": "template"
+              }
+            }
+          },
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "أهلاً وسهلا👋! يمكنني مساعدتك في العثور على المنتج الذي تريده. قل لي ما الذي تبحث عنه؟",
+            "أهلاً وسهلا👋! كيف يمكنني مساعدتك؟",
+            "أهلاً ! كيف بقدر اساعدك؟",
+            "أهلاً وسهلا! ما الشئ الذي تبحث عنه؟",
+            "أهلاً ! عن ماذا تبحث؟",
+            "أهلاً وسهلا! كيف بقدر اخدمك؟",
+            "تفضل ! كيف بقدر اخدمك؟",
+            "تفضل ! انا بخدمتك؟",
+            "شكرا لتواصلك معنا ! انا هنا لمساعدتك, تفضل؟"
+          ],
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "WELCOME"
+    }
+  ],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": [],
+  "endInteraction": true
+}
