@@ -31,9 +31,10 @@ And the use of sentiment analysis technology to suit the buying and selling proc
 <img src="/image/687474703a2f2f692e696d6775722e636f6d2f496b536e46524c2e706e67.jpg" alt="Offers" width="836px" height="487px" />
 
 
-* The Natural Language Processing (NLP) technique used is used to determine whether the data is positive, negative, or neutral.
+* The Natural Language Processing (NLP) technique used is used to
+  determine whether the data is positive,negative, or neutral.
 
-<img src="/image/ROBO-BOT%20%207.jpeg" alt="product" width="1200" height="556" />
+<img src="/image/ROBO-BOT%20%207.jpeg" alt="product" width="836px" height="400px" />
 
 
 
