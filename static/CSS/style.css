@@ -471,9 +471,8 @@ main .recent-orders a {
   font-weight: 600;
 }
 /* END SALES ANALYTICS */
-/* END RIGHT SECTION */
 
-/* START MEDIA QUERIES */
+
 /* TABLETS AND SMALL LAPTOPS */
 @media screen and (max-width: 1200px) {
   .container {
