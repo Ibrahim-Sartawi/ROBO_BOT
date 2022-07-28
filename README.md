@@ -27,6 +27,8 @@ And the use of sentiment analysis technology to suit the buying and selling proc
 
 ## Features
 
+![Wellcome](/image/Welcome.jpg)
+
 ## Feedback
 
 Feel free to send us feedback on Facebook or file an issue. Feature requests are always welcome. If you wish to contribute, please take a quick look at the guidelines.
