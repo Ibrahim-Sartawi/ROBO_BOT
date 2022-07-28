@@ -27,12 +27,12 @@ And the use of sentiment analysis technology to suit the buying and selling proc
 
 ## Features
 
-![main menu](/image/ROBO-BOT%201.jpg)
-![Offers](/image/ROBO-BOT%20%202.jpg=200x400)
-![shopping](/image/ROBO-BOT%203.jpg=200x400)
-![delivery](/image/ROBO-BOT%204.jpg=200x400)
-![Connect with us](/image/ROBO-BOT%20%205.jpg=200x400)
-![product](/image/ROBO-BOT%206.jpg=200x400)
+![main menu](/image/ROBO-BOT%201.jpg = 200*400)
+![Offers](/image/ROBO-BOT%20%202.jpg = 200*400)
+![shopping](/image/ROBO-BOT%203.jpg = 200*400)
+![delivery](/image/ROBO-BOT%204.jpg = 200*400)
+![Connect with us](/image/ROBO-BOT%20%205.jpg = 200*400)
+![product](/image/ROBO-BOT%206.jpg = 200*400)
 
 
 
