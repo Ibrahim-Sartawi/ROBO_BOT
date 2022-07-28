@@ -6,9 +6,9 @@
 ## Table of Contents
 
 - [Introduction](#introduction)
-- [Features](#features)
+- [images](#images)
 - [Feedback](#feedback)
-- [Project Intfrastructure ](#Project-Intfrastructure)
+- [Project Intfrastructure](#Project-Intfrastructure)
 - [Contributors](#contributors)
 - [Acknowledgments](#acknowledgments)
 
@@ -25,14 +25,15 @@ And the use of sentiment analysis technology to suit the buying and selling proc
 
 
 
-## Features
+## images
 
-![main menu](/image/ROBO-BOT%201.jpg | width=200px)
-![Offers](/image/ROBO-BOT%20%202.jpg | 200*400)
-![shopping](/image/ROBO-BOT%203.jpg | 200*400)
-![delivery](/image/ROBO-BOT%204.jpg | 200*400)
-![Connect with us](/image/ROBO-BOT%20%205.jpg | 200*400)
-![product](/image/ROBO-BOT%206.jpg | 200*400)
+
+<img src="/image/687474703a2f2f692e696d6775722e636f6d2f496b536e46524c2e706e67.jpg" alt="Offers" width="836px" height="487px" />
+
+
+* The Natural Language Processing (NLP) technique used is used to determine whether the data is positive, negative, or neutral.
+
+<img src="/image/ROBO-BOT%20%207.jpeg" alt="product" width="1200" height="556" />
 
 
 
