@@ -27,7 +27,15 @@ And the use of sentiment analysis technology to suit the buying and selling proc
 
 ## Features
 
-![Wellcome](/image/Welcome.jpg)
+![main menu](/image/ROBO-BOT%201.jpg=200x400)
+![main menu](/image/ROBO-BOT%20%202.jpg=200x400)
+![main menu](/image/ROBO-BOT%203.jpg=200x400)
+![main menu](/image/ROBO-BOT%204.jpg=200x400)
+![main menu](/image/ROBO-BOT%20%205.jpg=200x400)
+![main menu](/image/ROBO-BOT%206.jpg=200x400)
+
+
+
 
 ## Feedback
 
