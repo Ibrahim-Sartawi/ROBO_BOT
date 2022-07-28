@@ -17,12 +17,6 @@
 
 ## Introduction
 
-[Build Status](https://img.shields.io/travis/gitpoint/git-point.svg?style=flat-square)
-[Coveralls](https://img.shields.io/coveralls/github/gitpoint/git-point.svg?style=flat-square)
-[All Contributors](https://img.shields.io/badge/all_contributors-73-orange.svg?style=flat-square)
-[PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)
-[Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg?style=flat-square)
-[Roob-Bot chat](https://img.shields.io/badge/chat-on_gitter-008080.svg?style=flat-square)]
 
 It is a project to buy and sell or offer services over the Internet, but by using the smart “Chabot” It collects input from the user and answers it within certain laws and methods, including the use of artificial intelligence, where it uses a flexible "template" that is suitable for any project placed in any technology (such as the web, phones, desktops, and even on robots)
 
