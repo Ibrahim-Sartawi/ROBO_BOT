@@ -8,7 +8,6 @@
 - [Introduction](#introduction)
 - [Features](#features)
 - [Feedback](#feedback)
-- [Build Process](#build-process)
 - [Project Intfrastructure ](#Project-Intfrastructure)
 - [Contributors](#contributors)
 - [Acknowledgments](#acknowledgments)
@@ -17,12 +16,6 @@
 
 ## Introduction
 
-[![Build Status](https://img.shields.io/travis/gitpoint/git-point.svg?style=flat-square)](https://travis-ci.org/gitpoint/git-point)
-[![Coveralls](https://img.shields.io/coveralls/github/gitpoint/git-point.svg?style=flat-square)](https://coveralls.io/github/gitpoint/git-point)
-[![All Contributors](https://img.shields.io/badge/all_contributors-73-orange.svg?style=flat-square)](./CONTRIBUTORS.md)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
-[![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg?style=flat-square)](http://commitizen.github.io/cz-cli/)
-[![Gitter chat](https://img.shields.io/badge/chat-on_gitter-008080.svg?style=flat-square)](https://gitter.im/git-point)
 
 It is a project to buy and sell or offer services over the Internet, but by using the smart “Chabot” It collects input from the user and answers it within certain laws and methods, including the use of artificial intelligence, where it uses a flexible "template" that is suitable for any project placed in any technology (such as the web, phones, desktops, and even on robots)
 
@@ -41,7 +34,7 @@ Feel free to send us feedback on Facebook or file an issue. Feature requests are
 If there's anything you'd like to chat about, please feel free .
 
 
-## Build Process
+
 
 ## Project Intfrastructure
 
@@ -56,6 +49,9 @@ If there's anything you'd like to chat about, please feel free .
 ## Contributors
 
 This project follows the all-contributors specification and is brought to you by these awesome contributors.
+* [MALEK FRAIJ](https://github.com/MALEK-FRAIJ)
+* [Ibrahim-Arsaln](https://github.com/Ibrahim-Arsaln)
+* [Adnan5838](https://github.com/Adnan5838)
 
 ## Acknowledgments
 
