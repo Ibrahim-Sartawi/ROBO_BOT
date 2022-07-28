@@ -69,4 +69,5 @@ This project follows the all-contributors specification and is brought to you by
 ## Acknowledgments
 
 Thanks and appreciation
+
 Thanks to [amazonteckathon](https://amazonteckathon.com/) for supporting this contest.
