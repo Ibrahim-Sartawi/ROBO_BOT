@@ -1,0 +1,57 @@
+{
+  "id": "fe0fa38e-f212-4817-883a-2ba1236eb466",
+  "parentId": "6aea552d-7d72-420b-b99b-b5177efbc596",
+  "rootParentId": "6aea552d-7d72-420b-b99b-b5177efbc596",
+  "name": "discount.coupon - custom",
+  "auto": true,
+  "contexts": [
+    "discountcoupon-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "discountcoupon.discountcoupon-custom",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "4c6ac254-cf96-4349-9b0c-9de4ade2dff1",
+          "name": "phone-number",
+          "required": false,
+          "dataType": "@sys.phone-number",
+          "value": "$phone-number",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "cdf1ff14-47bf-4168-81ac-3b499c2bf8ad",
+          "name": "email",
+          "required": false,
+          "dataType": "@sys.email",
+          "value": "$email",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}
