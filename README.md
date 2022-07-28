@@ -3,12 +3,14 @@
 
 <!-- START doctoc generated  please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+
+
 ## Table of Contents
 
 - [Introduction](#introduction)
-- [images](#images)
+- [Images](#images)
 - [Feedback](#feedback)
-- [Project Intfrastructure](#Project-Intfrastructure)
+- [Project Intfrastructure](#project-intfrastructure)
 - [Contributors](#contributors)
 - [Acknowledgments](#acknowledgments)
 
@@ -24,15 +26,14 @@ It is a project to buy and sell or offer services over the Internet, but by usin
 And the use of sentiment analysis technology to suit the buying and selling process and accurate targeting within the appropriate times for this analysis. 
 
 
-
 ## images
 
 
 <img src="/image/687474703a2f2f692e696d6775722e636f6d2f496b536e46524c2e706e67.jpg" alt="Offers" width="836px" height="487px" />
 
-
 * The Natural Language Processing (NLP) technique used is used to
   determine whether the data is positive,negative, or neutral.
+  
 
 <img src="/image/ROBO-BOT%20%207.jpeg" alt="product" width="836px" height="400px" />
 
