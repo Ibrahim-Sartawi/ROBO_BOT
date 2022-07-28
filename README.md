@@ -8,7 +8,6 @@
 - [Introduction](#introduction)
 - [Features](#features)
 - [Feedback](#feedback)
-- [Build Process](#build-process)
 - [Project Intfrastructure ](#Project-Intfrastructure)
 - [Contributors](#contributors)
 - [Acknowledgments](#acknowledgments)
@@ -35,7 +34,7 @@ Feel free to send us feedback on Facebook or file an issue. Feature requests are
 If there's anything you'd like to chat about, please feel free .
 
 
-## Build Process
+
 
 ## Project Intfrastructure
 
@@ -50,6 +49,9 @@ If there's anything you'd like to chat about, please feel free .
 ## Contributors
 
 This project follows the all-contributors specification and is brought to you by these awesome contributors.
+* [MALEK FRAIJ](https://github.com/MALEK-FRAIJ)
+* [Ibrahim-Arsaln](https://github.com/Ibrahim-Arsaln)
+* [Adnan5838](https://github.com/Adnan5838)
 
 ## Acknowledgments
 
