@@ -63,7 +63,7 @@ If there's anything you'd like to chat about, please feel free .
 
 This project follows the all-contributors specification and is brought to you by these awesome contributors.
 * [MALEK FRAIJ](https://github.com/MALEK-FRAIJ)
-* [Ibrahim-Arsaln](https://github.com/Ibrahim-Arsaln)
+* [Ibrahim-Sartawi](https://github.com/Ibrahim-Sartawi)
 
 ## Acknowledgments
 
